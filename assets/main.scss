@@ -52,21 +52,20 @@ h1,h2,h3,h4,h5,h6 {
 }
 ul {
 	&.exits { 
-		margin:0 -.25em;
+		margin:0;
 		list-style:none;
-		-moz-column-count:3;
-		-webkit-column-count:3;
-		column-count:3;
+		@media (min-width: 800px) {
+			-moz-column-count:4;
+			-webkit-column-count:4;
+			column-count:4;
+		}
 		li {
 			margin:.25em 0;
 			a {
 				display:inline-block;
 				padding:.5em 0;
-				color: $brand-color;
 				&:hover {
-					background-color:$brand-color;
-					border-color:#222;
-					color:white;
+					color:darken($brand-color, 10%);
 				}
 			}
 		}
