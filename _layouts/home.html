@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading hidden">Texts</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-entry" data-sort='{{ post.date | date: "%Y%-m%d%H%M%S" }}'>
+        <span class="post-meta text-small invisible">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+		  <address class="author">by {{ post.author }}</address>
+        </h2>
+		<p class="">
+			{{ post.excerpt }}&hellip;
+		</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <div class="clearfix"></div>
+
+  <p class="rss-subscribe hidden">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>

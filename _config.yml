@@ -1,0 +1,22 @@
+---
+title: writerror
+email: 
+description: |
+  anarchist news aggregator & infospace
+baseurl: ''
+url: ''
+twitter_username: writerror
+github_username:
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+#permalink: "/:year/:month/:title.html"
+permalink: "/texts/:title"
+sass:
+  style: compressed
+javascript:
+  style: compressed
