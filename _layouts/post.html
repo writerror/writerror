@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-meta">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
+	<div class="text-center">
+		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+		{% if page.author %} <address class="author">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></author>{% endif %}
+	</div>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+	{% if page.source %}
+	  <p>&mdash;</p>
+	  <p>Retrieved from: <a href="{{ page.source-url }}">{{ page.source }}</a></p>
+	{% endif %}
+
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
