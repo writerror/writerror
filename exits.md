@@ -5,9 +5,7 @@ layout: page
 permalink: "/exits/"
 ---
 
-a collection of sites we frequent…
-
-<!--img src='{{ "/assets/img/wolf.png" | relative_url }}' class="float-right" alt=""-->
+a growing collection of sites we frequent…
 
 <ul class="exits">
 <li><a href="http://325.nostate.net/">325</a></li>
