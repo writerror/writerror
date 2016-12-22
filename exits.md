@@ -12,6 +12,7 @@ a collection of sites we frequent…
 <ul class="exits">
 <li><a href="http://325.nostate.net/">325</a></li>
 <li><a href="http://actforfree.nostate.net/">Act For Freedom Now!</a></li>
+<li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK Magazine</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
