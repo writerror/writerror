@@ -208,7 +208,7 @@ $(function() {
             var url = 'http://www.facebook.com/share.php?u='+artlink+'&t='+artit;
             break;
             case '#twitter' :
-            var url= 'http://twitter.com/intent/tweet?url='+encodeURIComponent(artlink)+'&text='+encodeURIComponent(artit)+'&via=writerror';
+            var url= 'http://twitter.com/intent/tweet?url='+encodeURIComponent(artlink)+'&text='+encodeURIComponent(artit);
             break;
             case '#tumblr' :
             var url = 'http://www.tumblr.com/share?v=3&u='+encodeURIComponent(artlink)+'&t='+encodeURIComponent(artit);
