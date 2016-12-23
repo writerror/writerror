@@ -148,6 +148,11 @@ ul {
 		background-color:rgba(0,0,0,.8);
 		opacity:.9;
 	}
+	@include media-query($on-palm) {
+		position:static;
+		background-color:rgba(0,0,0,.7);
+		opacity:.9;
+	}
 	.footer-col-wrapper {
 		font-size:.7em;
 	}
@@ -203,6 +208,7 @@ ul {
 				}
 				.feed-description {
 					//display:block;
+					cursor:zoom-in;
 				}
 			}
 		}
@@ -464,9 +470,17 @@ address {
 	img {
 		height:1em;
 		width:1em;
+		@include media-query($on-palm) {
+			height:1.5em;
+			width:1.5em;
+			margin-left:.5em;
+		}		
 	}
 }
 .post-meta {
+	.cp {
+		float:right;
+	}
 	path {
 		fill:lighten($brand-color, 53%);	
 		&:hover {

@@ -226,6 +226,13 @@ $(function() {
 		$('#overlay').show().animate({scrollTop: '0'}, 300);
 		return false;
 	});
+    $('.post-content').on('click', '.feed-description', function(e) {
+        if ($(e.target).is('a:not(.zoom, .share)')) {
+            return true;
+        } else {
+			$(this).closest('.feed-item').find('.post-meta').find('.zoom').trigger('click');
+		}
+	});
 	$('body').on('click', '#overlay, .oclose',  function(e) {
 		if ($(e.target).is('a')) {
 			return true;
