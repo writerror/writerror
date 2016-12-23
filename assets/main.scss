@@ -346,6 +346,9 @@ address {
 	cursor: pointer;
 	color: $grey-color-light;
   }
+  option {
+	background-color:#000;
+  }
 }
 #overlay {
 	background: rgba(90,0,0,.8); 
