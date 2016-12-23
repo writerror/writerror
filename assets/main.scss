@@ -42,7 +42,7 @@ $on-laptop:        800px;
 	max-width:1400px;
 }
 a:visited {
-    color: darken($brand-color, 5%);
+    color: darken($brand-color, 1%);
 }
 hr {
 	margin: 1em 0;
@@ -76,7 +76,7 @@ ul {
 }
 
 body {
-	background: rgba(90,0,0,0.8);
+	background: rgba(90,0,0,0.9);
 	background-blend-mode: soft-light;
 	background-image: url("img/m.jpg");
 	background-repeat: no-repeat;
@@ -94,7 +94,7 @@ body {
 		background-color:rgba(0,0,0,.88);
 	}
 	.site-title, .site-title:visited {
-		color:#fafafa;
+		color:#000;
 		letter-spacing:1px;
 		text-decoration:none;
 		text-shadow:1px 1px 0 rgba(255,255,255,.8);
