@@ -42,7 +42,7 @@ $on-laptop:        800px;
 @import "minima";
 
 .wrapper {
-	max-width:1400px;
+	max-width:1300px;
 }
 a:visited {
     color: darken($brand-color, 1%);
@@ -79,7 +79,7 @@ ul {
 	}
 }
 
-body {
+#writerror {
 	background-color: rgba(90,0,0,0.9);
 	background-blend-mode: soft-light;
 	background-image: url("img/m.jpg");
@@ -87,6 +87,14 @@ body {
 	background-size: cover;
 	background-position: center 0;
 	background-attachment: fixed;
+    width:      100%;
+    height:     100%;
+    z-index:    -1;
+    top:        0;
+    left:       0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position:   fixed;
 }
 
 .site-header {
@@ -95,7 +103,7 @@ body {
 	width:100%;
 	background-color:rgba(0,0,0,.5);
 	&.darken {
-		background-color:rgba(0,0,0,.88);
+		background-color:rgba(0,0,0,.85);
 	}
 	border-bottom-color: #444;
 	.site-title, .site-title:visited {
@@ -209,7 +217,7 @@ body {
 .post-header {
 	margin-bottom:1em;
 	.post-meta {
-		font-size:.75em;
+		font-size:.7em;
 		color: lighten($grey-color-light, 10%);
 	}
 }
@@ -271,7 +279,10 @@ address {
 		.post-meta {
 			margin-bottom:.5em;
 			a {
-				margin-left: .5em;
+				margin-left: .75em;
+				&:last-child {
+					margin-left:0;
+				}
 				&:hover {
 					text-decoration:none;
 				}

@@ -239,7 +239,7 @@ $(function() {
 		if (e.keyCode == 27) { $('body').removeClass('noscroll'); $('body').find('#overlay').hide(); }   // esc
 	});
 
-	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content">foo</div></div>');
+	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content"></div></div>');
 	$('body').append($overlay);
 
 });
