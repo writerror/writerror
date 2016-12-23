@@ -135,11 +135,27 @@ ul {
 	}
 }
 .site-footer {
-	padding:1em 0 0;
-	border-top-color:#000;
-	opacity:.5;
+	position:fixed;
+	z-index:3;
+	bottom:0;
+	width:100%;
+	background-color:rgba(0,0,0,.2);
+	overflow:hidden;
+	padding:.25em 0;
+	border-top-color:#444;
+	opacity:.4;
+	&:hover {
+		background-color:rgba(0,0,0,.8);
+		opacity:.9;
+	}
+	.footer-col-wrapper {
+		font-size:.7em;
+	}
 	.footer-col {
-		margin-bottom:.5em;
+		margin-bottom:1px;
+		ul {
+			margin:0;
+		}
 	}
 }
 .page-content {
