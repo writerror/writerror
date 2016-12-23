@@ -5,6 +5,11 @@
 
   <title>{% if page.title %}{{ page.title | escape }} &#8211 {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@writerror" />
+  <meta name="twitter:title" content="writerror" />
+  <meta name="twitter:description" content="anarchist news aggregator &amp; infospace" />
+  <meta name="twitter:image" content="http://writerror.com/assets/img/m.jpg" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
