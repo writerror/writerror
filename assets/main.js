@@ -68,15 +68,16 @@ $(function() {
 					var datesort = _formatDate(element.published,'yyyyMMddhhmmss');
 					var $bird = '<a title="Share on Twitter" href="#twitter" class="share float-right"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="1em" height="1em"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"></path></svg></span></a> ';
 					var $zoom = '<a title="View full content" href="#" class="zoom float-right"><img src="/assets/img/magnifier.png" alt=""></a>';
+					var $oclose = '<a title="Close article" class="oclose float-right"><img src="/assets/img/oclose.png" alt=""></a>';
 					var fullContent = element.contentFull;
 					if (fullContent.length <= 0) {
 						fullContent = element.description;
 					}
 					$container.isotope('insert', $('<li/>', {
-						html: '<div class="post-meta text-small"><span class="feed-title">'+feed.title+'</span> &ndash; '+_formatDate(element.published,'MM/dd')+$zoom+$bird+'</div>'+
+						html: '<div class="post-meta text-small"><span class="feed-title">'+feed.title+'</span> &ndash; '+_formatDate(element.published,'MM/dd')+$oclose+$zoom+$bird+'</div>'+
 								'<h4><a class="feed-link hidden" target="_blank" href="'+element.link+'">'+element.title+'</a></h4><article><div class="spinner"></div><div class="feed-description hidden">'+
 								snippet+'</div><div class="first-image"></div></article>'+
-								'<section class="hidden"><div class="feed-full_content">'+fullContent+'</div></section>'
+								'<section class="hidden"><div class="feed-full-content">'+fullContent+'</div></section>'
 						
 					}).addClass('feed-item post-entry').attr('data-sort',datesort).attr('data-filter',datafilter));
 				});
@@ -91,7 +92,7 @@ $(function() {
 	function loadDone() {
 		$('body').find('#loader').html('Preparing &amp; Sorting&hellip;');
 		$container.find('.feed-item').each(function() {
-			var $fim = $('.feed-full_content',this).find('img:first');
+			var $fim = $('.feed-full-content',this).find('img:first');
 			    if ($fim.attr('width') == '1' && $fim.attr('height') == '1') {
 					$fim.addClass('kill');
                     $fim.remove();
@@ -225,12 +226,13 @@ $(function() {
 		$('#overlay').show().animate({scrollTop: '0'}, 300);
 		return false;
 	});
-	$('body').on('click', '#overlay',  function(e) {
+	$('body').on('click', '#overlay, .oclose',  function(e) {
 		if ($(e.target).is('a')) {
 			return true;
 		} else {
 			$('body').removeClass('noscroll');
 			$('#overlay').hide();
+			return false;
 		}
 	});
 	$(document).keyup(function(e) {
@@ -240,13 +242,5 @@ $(function() {
 	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content">foo</div></div>');
 	$('body').append($overlay);
 
-});
-
-$(window).scroll(function(){
-  var header = $('.site-header'),
-      scroll = $(window).scrollTop();
-
-  if (scroll >= 70) header.addClass('darken');
-  else header.removeClass('darken');
 });
 
