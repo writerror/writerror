@@ -1,3 +1,5 @@
+// by @writerror writerror.com
+
 var PROD = true;
 
 $container = $('.feed-content');
