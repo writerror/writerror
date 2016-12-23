@@ -58,20 +58,21 @@ h1,h2,h3,h4,h5,h6 {
 }
 ul {
 	&.exits { 
+		padding:4px;
 		margin:0;
 		list-style:none;
+		border: 1px solid #bbb;
 		@media (min-width: 800px) {
 			-moz-column-count:4;
 			-webkit-column-count:4;
 			column-count:4;
 		}
 		li {
-			margin:.25em 0;
 			a {
 				display:inline-block;
-				padding:.5em 0;
+				padding:.5em;
 				&:hover {
-					color:darken($brand-color, 10%);
+					color:darken($brand-color, 1%);
 				}
 			}
 		}
@@ -112,6 +113,7 @@ body {
 					color:$grey-color-light;
 					text-shadow:1px 1px 0 rgba(0,0,0,.4);
 				}
+				letter-spacing:1px;
 				text-transform: lowercase;
 				font-variant:small-caps;
 				&.active { 
@@ -233,7 +235,7 @@ body {
 			padding:4px;
 			width:98.5%;
 			margin-bottom:.5em;
-			background-color:rgba(255,255,255,.5);
+			background-color:rgba(0,0,0,.5);
 			border: 1px solid #bbb;
 		}
 	}

@@ -13,7 +13,7 @@ a growing collection of sites we frequent…
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
-<li><a href="http://www.directaction.info/">BITE BACK Magazine</a></li>
+<li><a href="http://www.directaction.info/">BITE BACK</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
