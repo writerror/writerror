@@ -415,7 +415,7 @@ address {
 	color:#f8f8f8;
 	text-shadow:1px 1px 1px #000;
 	font-size:1.25em;
-	line-height:1.8;
+	line-height:1.5;
 	@include media-query($on-palm) {
 		.feed-full-content {
 				font-size:.9em;
