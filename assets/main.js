@@ -120,6 +120,7 @@ $(function() {
 		}).always( function () {
 			$('#loader').remove();
 			$('.spinner').remove();
+			$('.feed-item > .post-meta').css('visibility','visible');
 			$container.find('.feed-link, .feed-description').show();
 			$('#siteSort').show(function() {
 				var selectList = $('#siteSort option');
@@ -220,8 +221,9 @@ $(function() {
 
 	$('.post-content').on('click', '.zoom', function() {
 		$('#full-content').html(
-			'<div class="post-meta">'+$(this).parent('.post-meta').html()+'</div><h4>'+$(this).parent().siblings('h4').html()+'</h4><article>' + $(this).parent().siblings('section').html() + '</article>'
-		);
+			
+			'<h4>'+$(this).parent().siblings('h4').html()+'</h4><article>' + $(this).parent().siblings('section').html() + '</article>'
+		).before('<div class="post-meta-wrap"><div class="post-meta">'+$(this).parent('.post-meta').html()+'</div></div>');
 		$('body').addClass('noscroll');
 		$('#overlay').show().animate({scrollTop: '0'}, 300);
 		return false;
@@ -233,17 +235,27 @@ $(function() {
 			$(this).closest('.feed-item').find('.post-meta').find('.zoom').trigger('click');
 		}
 	});
-	$('body').on('click', '#overlay, .oclose',  function(e) {
+	$('body').on('click', '.oclose',  function(e) {
+		e.stopPropagation();
+		e.preventDefault();
+		$('body').removeClass('noscroll');
+		$('#overlay').hide();
+		$('body').find('.post-meta-wrap').remove();
+		return false;
+	});
+	$(document).keyup(function(e) {
+		if (e.keyCode == 27) { 
+			//$('body').removeClass('noscroll'); $('body').find('#overlay').hide(); 
+			$('body').find('.oclose').trigger('click');
+		}   
+	});
+    $('body').on('click', '.post-meta-wrap', function(e) {
+		e.stopPropagation();
 		if ($(e.target).is('a')) {
 			return true;
 		} else {
-			$('body').removeClass('noscroll');
-			$('#overlay').hide();
-			return false;
+			$('#overlay').animate({scrollTop: '0px'}, 300);
 		}
-	});
-	$(document).keyup(function(e) {
-		if (e.keyCode == 27) { $('body').removeClass('noscroll'); $('body').find('#overlay').hide(); }   // esc
 	});
 
 	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content"></div></div>');

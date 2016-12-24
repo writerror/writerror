@@ -86,7 +86,7 @@ ul {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center 0;
-	background-attachment: fixed;
+	background-attachment: scroll;
     width:      100%;
     height:     100%;
     z-index:    -1;
@@ -299,6 +299,7 @@ address {
 			background-color:rgba(0,0,0,.75);
 		}
 		.post-meta {
+			visibility:hidden;
 			margin-bottom:.5em;
 			a {
 				margin-left: .75em;
@@ -387,12 +388,13 @@ address {
   }
 }
 #overlay {
-	background: rgba(90,0,0,.8); 
+	background: rgb(20,80,0); 
 	background-blend-mode:soft-light;
 	background-image:url("img/m.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position:0 0%;
+	background-position:center 0;
+	background-attachment:scroll;
 	width:      100%;
 	height:      100%;
 	z-index:    10;
@@ -402,13 +404,12 @@ address {
 	overflow-y: auto;
   position:   fixed;
   #full-content {
-	background-color: rgba(0,0,0,.1); 
+	background-color: rgba(0,0,0,.2); 
 	border:1px solid rgba(0,0,0,.2);
 	border-top:0;
 	position:relative;
-	padding:1.5em;
+	padding:0 1em 1.5em 1em;
 	@include media-query($on-palm) {
-		padding:1.5em 1em;
 	}
 	margin:0 auto;
 	max-width:800px;
@@ -422,7 +423,10 @@ address {
 				line-height:1.35em;
 		}
 	}
-	h4 { font-size:1.17em; }
+	h4 { 
+		margin-top:2.0em;
+		font-size:1.17em; 
+	}
 	a {
 		color:lighten($brand-color, 55%);	
 		font-weight:bold;
@@ -437,8 +441,19 @@ address {
 	blockquote {
 		color: #d9d9d9;
 	}
+  }
+  .post-meta-wrap {
+	position:fixed;
+	z-index:3;
+	top:0;
+	width:100%;
+	background-color:rgba(0,0,0,.8);
 	.post-meta {
-		margin-bottom:1em;
+		display:table;
+		margin:.2em auto;
+		padding:.1em 0;
+		width:90%;
+		max-width:800px;
 		a {
 			&:hover {
 				color:#fff;
@@ -454,10 +469,10 @@ address {
 		}
 		.oclose {
 			display:inline-block;
-			margin-left:.5em;
+			margin-left:1em;
 			img {
-				height:.9em;
-				width:.9em;
+				height:1em;
+				width:1em;
 			}
 		}
 	}
