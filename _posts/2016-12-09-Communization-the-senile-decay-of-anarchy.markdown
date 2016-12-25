@@ -8,12 +8,9 @@ source-url: https://325.nostate.net/2015/06/01/communization-the-senile-decay-of
 excerpt: Today’s era smells like engine oil, cheap labor sweat and naphthalene of
   the morality of voluntary obedience
 date: '2016-12-09 13:28:32 -0500'
+thumbnail: '/assets/img/ccf-logo.jpg'
 categories: insurrection
 ---
-
-<div class="text-center">
-<img src='{{ "/assets/img/conspiracy_of_fire_nuclei_logo.jpg" | relative_url }}' class="post-image post-thumb" alt="">
-</div>
 
 ### Fragment of the unpublished pamphlet “FAI Reloaded” by the Conspiracy of Cells of Fire : Imprisoned Members Cell (Greece)
 

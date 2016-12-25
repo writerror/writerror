@@ -2,15 +2,13 @@
 title: 'Killing King Abacus - Introduction'
 author: 'sasha k, Leila Teapata, Wolfi Landstreicher'
 layout: post
+source: 'Killing King Abacus #1'
 excerpt: 'To Kill King Abacus is to create relations without measure. If we aim to destroy capitalism we cannot reproduce its necrophilic logic which reduces relationships to numbers'
 date: '2016-12-06 02:03:32 -0500'
 pubdate: 2000
+thumbnail: '/assets/img/kka1.png'
 categories: insurrection
 ---
-
-<div class="text-center">
-<img src='{{ "/assets/img/kka1.png" | relative_url }}' class="post-image post-thumb" alt="">
-</div>
 
 ### Killing King Abacus
 

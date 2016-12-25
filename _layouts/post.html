@@ -4,19 +4,29 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <p class="post-meta">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
+    <p class="post-meta invisible">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
 	<div class="text-center">
 		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-		{% if page.author %} <address class="author">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></author>{% endif %}
+		{% if page.author %} 
+		<address class="author">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span></author>
+		{% endif %}
 	</div>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
-	{% if page.source %}
-	  <p>&mdash;</p>
-	  <p>Retrieved from: <a href="{{ page.source-url }}">{{ page.source }}</a></p>
+	{% if page.thumbnail %}
+	<div class="text-center">
+		<img src='{{ page.thumbnail | relative_url }}' class="post-image post-thumb" alt="">
+	</div>
 	{% endif %}
+
+    {{ content }}
+	
+	  <p>&mdash;</p>
+	  <p>
+		{% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite>{{ page.title | escape }}</cite>.{% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %} 
+		{% if page.source %}Retrieved from <em>{% if page.source-url %}<a href="{{ page.source-url }}">{% endif %}{{ page.source }}{% if page.source-url %}</a>{% endif %}</em>.{% endif %} 
+	  </p>
 
   </div>
 

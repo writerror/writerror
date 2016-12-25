@@ -7,13 +7,9 @@ source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/fire-cells-conspiracy-the-sun-still-rises
 excerpt: The Fire Cells Conspiracy revolutionary organization didn’t begin its activity from out of nowhere. It wasn’t as if a straight line had cut through space and time. It was a future crying out from the past. It was a future crying out from the past.
 date: '2016-12-13 01:14:32 -0500'
+thumbnail: '/assets/img/ccf-logo.jpg'
 categories: insurrection
 ---
-
-<div class="text-center">
-<img src='{{ "/assets/img/conspiracy_of_fire_nuclei_logo.jpg" | relative_url }}' class="post-image post-thumb" alt="">
-</div>
-
 
 <blockquote>
 Knowledge chooses its project,<br>

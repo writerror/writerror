@@ -9,13 +9,9 @@ excerpt: Today we live in the time of fear, the kingdom of degeneration. All aro
   us spreads a sick world which refuses however to die. The world of economy falls
   but does not collapse.
 date: '2016-12-19 19:01:02 -0500'
+thumbnail: "/assets/img/lonewolves.png"
 categories: insurrection
 ---
-
-<div class="text-center">
-<img src='{{ "/assets/img/lonewolves.png" | relative_url }}' class="post-image post-thumb" alt="">
-</div>
-
 
 Today we live in the time of fear, the kingdom of degeneration. All around us spreads a sick world which refuses however to die. The world of economy falls but does not collapse. All preachers of every ideology, scientists, economists, journalists, politicians, sociologists, syndicalists, leftists, humanitarians, agree to a common truth, called “economic crisis”.
 

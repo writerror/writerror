@@ -240,7 +240,7 @@ ul {
 	margin-bottom:1em;
 	.post-meta {
 		font-size:.7em;
-		color: lighten($grey-color-light, 10%);
+		color: lighten($grey-color, 1%);
 	}
 }
 .post-title {
@@ -388,7 +388,7 @@ address {
   }
 }
 #overlay {
-	background: rgb(20,80,0); 
+	background-color: rgb(90,0,0);
 	background-blend-mode:soft-light;
 	background-image:url("img/m.jpg");
 	background-repeat:no-repeat;
