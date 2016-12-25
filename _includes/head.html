@@ -9,7 +9,7 @@
   <meta name="twitter:site" content="@writerror" />
   <meta name="twitter:title" content="writerror {% if page.title %}/ {{ page.title | escape }}{% endif %}" />
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 140 | escape }}" />
-  <meta name="twitter:image" content="{{ page.thumbnail | default: 'http://writerror.com/assets/img/m.jpg' | absolute_url }}" />
+  <meta name="twitter:image" content="{{ page.thumbnail | absolute_url | default: 'http://writerror.com/assets/img/m.jpg' }}" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">

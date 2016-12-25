@@ -4,7 +4,7 @@ email:
 description: |
   anarchist news aggregator & infospace
 baseurl: ''
-url: ''
+url: 'http://writerror.com'
 twitter_username: writerror
 github_username:
 markdown: kramdown
