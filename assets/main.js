@@ -56,7 +56,6 @@ $(function() {
 	$.each(flist, function(i, feed) {
 		$.ajax(
 		  {
-			//url: proxy_dev+"/v1/feed?url=http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml&count=3&key=WE1312ACAB161"
 			url: proxy_url+"/v1/feed?url="+feed.url+"&count=5&key=WE1312ACAB161"
 		  }
 		).fail(function() {
