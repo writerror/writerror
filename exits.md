@@ -19,16 +19,20 @@ a growing collection of sites we frequent…
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="https://thefinalstrawradio.noblogs.org/">The Final Straw</a></li>
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
+<li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
+<li><a href="http://infoshop.org/">Infoshop</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
 <li><a href="https://interarma.info/?lang=en">Inter Arma</a></li>
 <li><a href="https://itsgoingdown.org/">It's Going Down</a></li>
 <li><a href="https://libcom.org/">libcom</a></li>
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
 <li><a href="https://animalliberationpressoffice.org/">NAALPO</a></li>
+<li><a href="https://nycabc.wordpress.com/">NYC Anarchist Black Cross</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
+<li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
 </ul>
 
