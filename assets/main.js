@@ -31,7 +31,6 @@ $(function() {
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
         { title: 'ROAR Magazine', url: 'https://roarmag.org/roar-feed/' },
         { title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
-        { title: 'Antisocial Evolution', url: 'https://antisocialevolution.blackblogs.org/feed/' },
         { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
     ];
 
