@@ -11,6 +11,7 @@ a growing collection of sites we frequent…
 <li><a href="http://325.nostate.net/">325</a></li>
 <li><a href="http://actforfree.nostate.net/">Act For Freedom Now!</a></li>
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
+<li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
@@ -28,7 +29,9 @@ a growing collection of sites we frequent…
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
 <li><a href="https://animalliberationpressoffice.org/">NAALPO</a></li>
 <li><a href="https://nycabc.wordpress.com/">NYC Anarchist Black Cross</a></li>
+<li><a href="nycantifa.wordpress.com ">NYC Antifa</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
+<li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
