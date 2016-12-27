@@ -14,6 +14,7 @@ a growing collection of sites we frequent…
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
+<li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
