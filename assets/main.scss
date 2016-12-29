@@ -41,6 +41,15 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+@font-face {
+    font-family: Oswald;
+    src: url("font/Oswald-Regular.ttf");
+}
+@font-face {
+    font-family: Oswald-Light;
+    src: url("font/Oswald-Light.ttf");
+}
+
 .wrapper {
 	max-width:1300px;
 }
@@ -54,6 +63,7 @@ blockquote {
 	letter-spacing:0;
 }
 h1,h2,h3,h4,h5,h6 {
+	font-family:Oswald-Light;
 	line-height:1.2;
 }
 
@@ -86,9 +96,10 @@ h1,h2,h3,h4,h5,h6 {
 	border-bottom-color: #444;
 	.site-title, .site-title:visited {
 		color:#000;
-		letter-spacing:1px;
+		letter-spacing:2px;
 		text-decoration:none;
 		text-shadow:1px 1px 0 rgba(255,255,255,.8);
+		font-family:Oswald;
 		&:hover { 
 			text-shadow:1px 1px 0 #fff;
 		}
@@ -103,6 +114,7 @@ h1,h2,h3,h4,h5,h6 {
 				letter-spacing:1px;
 				text-transform: lowercase;
 				font-variant:small-caps;
+				font-family:Oswald-Light;
 				&.active { 
 					//text-decoration:underline; 
 					border-top:1px dashed #aaa;
@@ -434,7 +446,7 @@ address {
 	}
 	h4 { 
 		margin-top:2.0em;
-		font-size:1.17em; 
+		font-size:1.50em; 
 	}
 	a {
 		color:lighten($brand-color, 55%);	
