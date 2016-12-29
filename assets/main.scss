@@ -63,7 +63,6 @@ blockquote {
 	letter-spacing:0;
 }
 h1,h2,h3,h4,h5,h6 {
-	font-family:Oswald-Light;
 	line-height:1.2;
 }
 
@@ -446,6 +445,7 @@ address {
 	}
 	h4 { 
 		margin-top:2.0em;
+		font-family:Oswald-Light;
 		font-size:1.50em; 
 	}
 	a {
