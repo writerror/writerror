@@ -42,8 +42,8 @@ $on-laptop:        800px;
 @import "minima";
 
 @font-face {
-    font-family: Impact-Label-Reversed;
-    src: url("font/Impact-Label-Reversed.ttf");
+    font-family: "League Gothic";
+    src: url("font/LeagueGothic-Regular.otf");
 }
 @font-face {
     font-family: Oswald;
@@ -99,11 +99,11 @@ h1,h2,h3,h4,h5,h6 {
 	border-bottom-color: #444;
 	.site-title, .site-title:visited {
 		color:#000;
-		letter-spacing:-3px;
+		letter-spacing:2px;
 		text-decoration:none;
 		text-shadow:1px 1px 0 rgba(255,255,255,.8);
-		font-family:Impact-Label-Reversed, Oswald;
-		font-size:1.8em;
+		font-family:"League Gothic", LeagueGothic, Oswald, sans-serif;
+		font-size:2.25em;
 		&:hover { 
 			text-shadow:1px 1px 0 #fff;
 		}
@@ -118,7 +118,7 @@ h1,h2,h3,h4,h5,h6 {
 				letter-spacing:1px;
 				text-transform: lowercase;
 				font-variant:small-caps;
-				font-family:Oswald-Light;
+				font-family:Oswald-Light, sans-serif;
 				&.active { 
 					//text-decoration:underline; 
 					border-top:1px dashed #aaa;
@@ -450,7 +450,7 @@ address {
 	}
 	h4 { 
 		margin-top:2.0em;
-		font-family:Oswald-Light;
+		font-family:Oswald-Light, sans-serif;
 		font-size:1.50em; 
 	}
 	a {
