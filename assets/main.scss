@@ -410,6 +410,8 @@ address {
   }
 }
 #overlay {
+	background-color: rgba(45,0,0,.8);
+/*
 	background-color: rgb(90,0,0);
 	background-blend-mode:soft-light;
 	background-image:url("img/m.jpg");
@@ -417,6 +419,7 @@ address {
 	background-size:cover;
 	background-position:center 0;
 	background-attachment:scroll;
+*/
 	width:      100%;
 	height:      100%;
 	z-index:    10;
@@ -426,11 +429,11 @@ address {
 	overflow-y: auto;
   position:   fixed;
   #full-content {
-	background-color: rgba(0,0,0,.2); 
-	border:1px solid rgba(0,0,0,.2);
+	background-color: rgba(0,0,0,.5); 
+	border:1px solid #000;
 	border-top:0;
 	position:relative;
-	padding:0 1em 1.5em 1em;
+	padding:2.5em 1em 1.5em 1em;
 	@include media-query($on-palm) {
 	}
 	margin:0 auto;
@@ -449,7 +452,7 @@ address {
 		}
 	}
 	h4 { 
-		margin-top:2.0em;
+		margin-top:.05em;
 		font-family:Oswald-Light, sans-serif;
 		font-size:1.50em; 
 	}
