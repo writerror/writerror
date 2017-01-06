@@ -11,11 +11,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts reversed %}
       <li class="post-entry" data-sort='{{ post.date | date: "%Y%-m%d%H%M%S" }}'>
-        <span class="post-meta text-small invisible">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
+        <span class="post-meta text-small">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-		  <address class="author">by {{ post.author }}</address>
+		  <address class="author">by {{ post.author }} {% if post.pubdate %}&bull; {{ post.pubdate }}{% endif %}</address>
         </h2>
 		<p class="">
 			{{ post.excerpt }}&hellip;
