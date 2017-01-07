@@ -5,7 +5,7 @@ layout: page
 permalink: "/exits/"
 ---
 
-a growing collection of sites we frequent…
+a growing collection of sites we admire…
 
 <ul class="exits">
 <li><a href="http://325.nostate.net/">325</a></li>
@@ -16,6 +16,7 @@ a growing collection of sites we frequent…
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
+<li><a href="http://thebasebk.org/">The Base</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
