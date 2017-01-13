@@ -199,6 +199,9 @@ $(function() {
     $('body').on('click', '.share', function() {
         var sharesite = $(this).attr('href');
         var artsel = $(this).parent().siblings('h4').find('.feed-link');
+		if (artsel.length <= 0) {
+			artsel = $('#overlay').find('#full-content').find('h4').find('.feed-link');
+		}
         var artit = artsel.text();
         var artlink = artsel.attr('href');
         switch (sharesite) {
