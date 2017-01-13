@@ -6,7 +6,7 @@ source: The Anarchist Library
 source-url: https://theanarchistlibrary.org/library/wolfi-landstreicher-strangers-in-an-alien-world
 pubdate: 2014
 excerpt: 'I have been an anarchist for well over thirty years now. For me this has never been an identity to which to cling, a label to give me a sense of belonging. It has rather been an ongoing challenge to face my life in a particular way'
-date: '2016-12-22 09:01:02 -0500'
+date: '2017-01-13 01:01:02 -0500'
 categories: survival
 ---
 
