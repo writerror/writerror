@@ -23,7 +23,7 @@ GEM
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     gemoji (2.1.0)
-    github-pages (113)
+    github-pages (114)
       activesupport (= 4.2.7)
       github-pages-health-check (= 1.3.0)
       jekyll (= 3.3.1)
@@ -56,13 +56,14 @@ GEM
       jekyll-theme-slate (= 0.0.3)
       jekyll-theme-tactile (= 0.0.3)
       jekyll-theme-time-machine (= 0.0.3)
-      jekyll-titles-from-headings (= 0.1.3)
+      jekyll-titles-from-headings (= 0.1.4)
       jemoji (= 0.7.0)
       kramdown (= 1.11.1)
       liquid (= 3.0.6)
       listen (= 3.0.6)
       mercenary (~> 0.3)
       minima (= 2.0.0)
+      nokogiri (= 1.6.8.1)
       rouge (= 1.11.1)
       terminal-table (~> 1.4)
     github-pages-health-check (1.3.0)
@@ -150,7 +151,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-theme-time-machine (0.0.3)
       jekyll (~> 3.3)
-    jekyll-titles-from-headings (0.1.3)
+    jekyll-titles-from-headings (0.1.4)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
@@ -172,7 +173,7 @@ GEM
     multi_json (1.12.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.7.0.1)
+    nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -218,7 +219,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 113)
+  github-pages (= 114)
   jekyll-admin
   jekyll-feed (~> 0.6)
   json
