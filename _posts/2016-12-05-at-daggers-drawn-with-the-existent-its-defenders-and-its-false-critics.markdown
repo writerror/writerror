@@ -3,6 +3,7 @@ title: 'At Daggers Drawn with the Existent, its Defenders and its False Critics'
 author: 'anonymous'
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/anonymous-at-daggers-drawn-with-the-existent-its-defenders-and-its-false-critics
+pubdate: 1998
 layout: post
 excerpt: 'Life is no more than a continual search for something to cling to. One gets up in the morning to find oneself in bed a mere matter of hours later'
 date: '2016-12-05 12:17:32 -0500'
@@ -268,4 +269,5 @@ On the other hand there is insurrection, the <em>unknown</em> bursting into the 
 <hr>
 
 
-Translated from Italian by Jean Weir in collaboration with John Moore and Leigh Stracross. Original title: “Ai ferri corti con l’esistente, i suoi difensori e i suoi falsi critici”
+Originally published in 1998 by the Italian publishing project "NN" under the title "Ai ferri corti con l’esistente, i suoi difensori e i suoi falsi critici." This critique of various forms of resistance in the age of globalization was translated by Jean Weir in collaboration with John Moore and Leigh Stracross and first published in English as At Daggers Drawn by Elephant Editions in 2001.
+
