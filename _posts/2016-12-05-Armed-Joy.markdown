@@ -8,6 +8,7 @@ pubdate: 1977
 excerpt: 'This book was written in 1977 in the momentum of the revolutionary struggles
   taking place in Italy at the time, and that situation, now profoundly different,
   should be borne in mind when reading it today. '
+thumbnail: "/assets/img/armed-joy.png"
 date: '2016-12-05 19:01:02 -0500'
 categories: insurrection
 ---

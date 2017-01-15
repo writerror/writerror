@@ -7,6 +7,7 @@ source-url: https://theanarchistlibrary.org/library/alfredo-m-bonanno-insurrecti
 pubdate: 1999
 excerpt: The following ideas have emerged from a long itinerary of struggle and reflection.
   They represent a tormented, complex thesis, which is not only difficult to set out
+thumbnail: "/assets/img/insurrectionalist-anarchism.png"
 date: '2016-12-21 09:01:02 -0500'
 categories: insurrection
 ---

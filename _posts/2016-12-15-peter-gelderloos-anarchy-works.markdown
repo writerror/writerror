@@ -6,6 +6,7 @@ pubdate: 2010
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works
 excerpt: 'Anarchism is the boldest of revolutionary social movements to emerge from the struggle against capitalism — it aims for a world free from all forms of domination and exploitation. But at its heart is a simple and convincing proposition'
+thumbnail: "/assets/img/anarchy-works.png"
 date: '2016-12-15 13:38:32 -0500'
 categories: society
 ---

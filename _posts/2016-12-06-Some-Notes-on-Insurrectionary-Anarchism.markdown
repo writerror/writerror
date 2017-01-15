@@ -5,12 +5,11 @@ source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/sasha-k-some-notes-on-insurrectionary-anarchism
 layout: post
 excerpt: 'Insurrectionary anarchism is not an ideological solution to all social problems, a commodity on the capitalist market of ideologies and opinions, but an on-going praxis'
+thumbnail: "/assets/img/some-notes.png"
 pubdate: 2001
 date: '2016-12-06 12:09:32 -0500'
 categories: insurrection
 ---
-
-<img src='{{ "/assets/img/some-notes.png" | relative_url }}' class="post-image" alt="">
 
 Insurrectionary anarchism is not an ideological solution to all social problems, a commodity on the capitalist market of ideologies and opinions, but an on-going praxis aimed at putting an end to the domination of the state and the continuance of capitalism, which requires analysis and discussion to advance. We don’t look to some ideal society or offer an image of utopia for public consumption. Throughout history, most anarchists, except those who believed that society would evolve to the point that it would leave the state behind, have been insurrectionary anarchists. Most simply, this means that the state will not merely wither away, thus anarchists must attack, for waiting is defeat; what is needed is open mutiny and the spreading of subversion among the exploited and excluded. Here we spell out some implications that we and some other insurrectionary anarchists draw from this general problem: if the state will not disappear on its own, how then do we end its existence? It is, therefore, primarily a practice, and focuses on the organization of attack. These notes are in no way a closed or finished product; we hope they are a part of an ongoing discussion, and we most certainly welcome responses. Much of this comes straight from past issues of Insurrection and pamphlets from Elephant Editions, available from the addresses at the end.
 

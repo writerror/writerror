@@ -7,6 +7,7 @@ source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state
 excerpt: 'In August 2004, at the North American Anarchist Convergence in Athens, Ohio, I participated in a panel discussing the topic of nonviolence versus violence. Predictably, the discussion turned into an unproductive'
 date: '2016-12-22 14:38:32 -0500'
+thumbnail: "/assets/img/how-nonviolence.png"
 categories: nonviolence
 ---
 

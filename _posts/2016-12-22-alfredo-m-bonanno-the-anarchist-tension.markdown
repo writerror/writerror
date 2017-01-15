@@ -7,6 +7,7 @@ source-url: https://theanarchistlibrary.org/library/alfredo-m-bonanno-the-anarch
 pubdate: 1996
 excerpt: Yes, it’s true, anarchism is a tension, not a realisation, not a concrete
   attempt to bring about anarchy tomorrow morning.
+thumbnail: "/assets/img/anarchist-tension.png"
 date: '2016-12-22 08:01:02 -0500'
 categories: identity
 ---

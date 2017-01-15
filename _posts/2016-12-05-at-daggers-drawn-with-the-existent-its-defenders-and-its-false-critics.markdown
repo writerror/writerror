@@ -3,6 +3,7 @@ title: 'At Daggers Drawn with the Existent, its Defenders and its False Critics'
 author: 'anonymous'
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/anonymous-at-daggers-drawn-with-the-existent-its-defenders-and-its-false-critics
+thumbnail: "/assets/img/addwe.png"
 pubdate: 1998
 layout: post
 excerpt: 'Life is no more than a continual search for something to cling to. One gets up in the morning to find oneself in bed a mere matter of hours later'

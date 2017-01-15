@@ -11,15 +11,19 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts reversed %}
       <li class="post-entry" data-sort='{{ post.date | date: "%Y%-m%d%H%M%S" }}'>
-        <span class="post-meta text-small">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
+		<div class="post-home-thumb float-left hidden" style="background-image:url('{% if post.thumbnail %}{{ post.thumbnail }}{% endif %}');"><a class="post-link" href="{{ post.url | relative_url }}"></a></div>
+		<div class="post-home-content">
+			<span class="post-meta text-small">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-		  <span class="author">by {{ post.author }} {% if post.pubdate %}&bull; {{ post.pubdate }}{% endif %}</span>
-        </h2>
-		<p class="">
-			{{ post.excerpt }}&hellip;
-		</p>
+			<h2>
+			  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+			  <span class="author">by {{ post.author }} {% if post.pubdate %}&bull; {{ post.pubdate }}{% endif %}</span>
+			</h2>
+			<p class="">
+				{{ post.excerpt }}&hellip;
+			</p>
+		</div>
+		<div class="clearfix"></div>
       </li>
     {% endfor %}
   </ul>
