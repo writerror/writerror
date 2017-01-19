@@ -20,7 +20,7 @@ $(function() {
         { title: 'Contra Info', url: 'https://en-contrainfo.espiv.net/feed/' },
         { title: 'Traces of Fire', url: 'https://tracesoffire.espivblogs.net/category/english/feed/' },
         { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
-        { title: 'CrimethInc', url: 'https://www.crimethinc.com/feed/' },
+        { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
         { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://submedia.tv/stimulator/feed/' },
         { title: 'libcom', url: 'https://libcom.org/library-latest/feed' },
