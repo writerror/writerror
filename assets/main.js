@@ -98,7 +98,8 @@ $(function() {
                 else if ($fim.attr('src') == 'https://libcom.org/sites/libcom.org/modules/contrib/filefield/icons/image-x-generic.png') {
                     $fim.attr('src', $fim.next('a').attr('href'));
                 }
-                else if ($fim.attr('src') == 'https://submedia.tv/stimulator/wp-content/plugins/flattr/img/flattr-badge-white@2x.png') {
+                else if ($fim.attr('src') == 'https://submedia.tv/stimulator/wp-content/plugins/flattr/img/flattr-badge-white@2x.png' || 
+					$fim.attr('src') == 'https://submedia.tv/stimulator/wp-content/plugins/flattr/img/flattr-badge-white.png') {
 					$fim.addClass('kill');
                     $fim.remove();
                 }
