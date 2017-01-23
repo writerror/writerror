@@ -21,6 +21,7 @@ $(function() {
         { title: 'Traces of Fire', url: 'https://tracesoffire.espivblogs.net/category/english/feed/' },
         { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
+        { title: 'Enough is Enough', url: 'https://enoughisenough14.org/feed/' },
         { title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
         { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://submedia.tv/stimulator/feed/' },
