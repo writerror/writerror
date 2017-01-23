@@ -19,11 +19,12 @@ a growing collection of sites we frequent…
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
 <li><a href="http://thebasebk.org/">The Base</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
+<li><a href="http://www.changingsunspress.com">Changing Suns Press</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
-<li><a href="https://enoughisenough14.org">Enough is Enough</a></li>
+<li><a href="https://enoughisenough14.org">Enough is Enough!</a></li>
 <li><a href="https://thefinalstrawradio.noblogs.org/">The Final Straw</a></li>
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
 <li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
