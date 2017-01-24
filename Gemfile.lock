@@ -222,10 +222,11 @@ DEPENDENCIES
   github-pages (= 117)
   jekyll-admin
   jekyll-feed (~> 0.6)
+  json
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.2.6p396
+   ruby 2.2.1p85
 
 BUNDLED WITH
    1.14.2

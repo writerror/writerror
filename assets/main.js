@@ -124,6 +124,11 @@ $(function() {
 			$container.find('.feed-link, .feed-description').show();
 			$('#siteSort').show(function() {
 				var selectList = $('#siteSort option');
+				if (selectList.length <= 1) {
+					$('#siteSort').hide();
+					$('#siteSort').parent().prepend('<p>Error loading feeds&hellip; Checkout some <a class="underline" href="/texts/">texts</a> instead.</p>');
+					return;
+				}
 				selectList.sort(function(a,b){
 					A = a.value.toLowerCase();
 					B = b.value.toLowerCase();
