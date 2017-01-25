@@ -265,6 +265,12 @@ $(function() {
 			$('#overlay').animate({scrollTop: '0px'}, 300);
 		}
 	});
+    $('body').on('click', '#overlay', function(e) {
+		$('body').find('.oclose').trigger('click');
+	});
+	$('body').on('click', '#full-content', function(e) {
+		e.stopPropagation();
+	});
 
 	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content"></div></div>');
 	$('body').append($overlay);
