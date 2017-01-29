@@ -25,7 +25,7 @@ a growing collection of sites we frequent…
 <li><a href="http://www.disruptj20.org">Disrupt J20.</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
-<li><a href="http://archive.elephanteditions.net/latest/2">Elephant Editions Archive</a></li>
+<li><a href="http://archive.elephanteditions.net/">Elephant Editions Archive</a></li>
 <li><a href="https://enoughisenough14.org">Enough is Enough!</a></li>
 <li><a href="https://thefinalstrawradio.noblogs.org/">The Final Straw</a></li>
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
