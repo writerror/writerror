@@ -14,14 +14,14 @@ $(function() {
 
     var flist = [
         { title: '325', url: 'https://325.nostate.net/feed/' },
-        { title: 'Act For Freedom Now', url: 'http://actforfree.nostate.net/?feed=rss2' },
+        { title: 'Act For Freedom Now!', url: 'http://actforfree.nostate.net/?feed=rss2' },
         { title: 'Insurrection News', url: 'https://insurrectionnewsworldwide.com/feed/' },
         { title: 'It\'s Going Down', url: 'https://itsgoingdown.org/feed/' },
         { title: 'Contra Info', url: 'https://en-contrainfo.espiv.net/feed/' },
         { title: 'Traces of Fire', url: 'https://tracesoffire.espivblogs.net/category/english/feed/' },
         { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
-        { title: 'Enough is Enough', url: 'https://enoughisenough14.org/feed/' },
+        { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
         { title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
         { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://submedia.tv/stimulator/feed/' },
