@@ -29,6 +29,7 @@ a growing collection of sites we frequent…
 <li><a href="https://enoughisenough14.org">Enough is Enough!</a></li>
 <li><a href="https://thefinalstrawradio.noblogs.org/">The Final Straw</a></li>
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
+<li><a href="https://freejeremy.net/">Free Jeremy Hammond</a></li>
 <li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
 <li><a href="http://infoshop.org/">Infoshop</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
@@ -44,9 +45,12 @@ a growing collection of sites we frequent…
 <li><a href="https://phillyantifa.org">Philly Antifa</a></li>
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
+<li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
+<li><a href="https://supportericking.org/">Support Eric King</a></li>
+<li><a href="https://supportmariusmason.org/">Support Marius Mason</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
