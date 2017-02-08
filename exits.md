@@ -5,7 +5,7 @@ layout: page
 permalink: "/exits/"
 ---
 
-a growing collection of sites we frequent…
+<small>a growing collection of recommended sites&hellip;</small>
 
 <ul class="exits">
 <li><a href="http://325.nostate.net/">325</a></li>

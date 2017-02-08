@@ -4,4 +4,4 @@ layout: home
 permalink: "/texts/"
 ---
 
-a collection of texts we love…
+<small>a growing collection of recommended reading&hellip;</small>
