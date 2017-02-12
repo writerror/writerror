@@ -30,7 +30,6 @@ $(function() {
         { title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
         { title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
-        { title: 'ROAR Magazine', url: 'https://roarmag.org/roar-feed/' },
         { title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
         { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
     ];
