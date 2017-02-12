@@ -44,6 +44,7 @@ permalink: "/exits/"
 <li><a href="https://nycantifa.wordpress.com ">NYC Antifa</a></li>
 <li><a href="https://phillyantifa.org">Philly Antifa</a></li>
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
+<li><a href="http://pugetsoundanarchists.org/">pugetsoundanarchists.org</a></li>
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
