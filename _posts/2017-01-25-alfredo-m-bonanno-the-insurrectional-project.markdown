@@ -6,6 +6,7 @@ pubdate: 1998
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/alfredo-m-bonanno-the-insurrectional-project
 excerpt: 'From whatever angle you approach it, the present offers no way out. This is not the least of its virtues. From those who seek hope above all, it tears away every firm ground.'
+thumbnail: "/assets/img/insurrectional-project.png"
 date: '2017-01-25 01:55:32 -0500'
 categories: insurrection
 ---
