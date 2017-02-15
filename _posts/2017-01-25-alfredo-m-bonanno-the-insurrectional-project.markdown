@@ -78,7 +78,7 @@ Catania, 10 October 1998
 
 </blockquote>
 
-** Chapter 1. Recent Developments in Capitalism
+## Chapter 1. Recent Developments in Capitalism
 
 From the late Seventies until the early Eighties, industry in the leading capitalist countries was in crisis. The relationship between plant and productivity had never been worse. Struggles led by the trades unions, as well as those of the proletariat in general (especially in their more violent manifestations under the leadership of the various revolutionary working class structures), had led to a rise in labour costs quite out of proportion to capital’s income. Incapable of adjusting, lacking the strength to reduce labour and employment costs drastically, it seemed as though the whole system was moving towards its natural collapse. 
 
@@ -208,7 +208,7 @@ Sabotage has become the main weapon of the exploited in their struggle in the sc
 
 These are the reasons why we are anarchists, revolutionaries and insurrectionalists.
 
-** Chapter 2. Anarchists in the Face of the New Capitalist Order
+## Chapter 2. Anarchists in the Face of the New Capitalist Order
 
 Comrades, before starting this talk, a couple of words in order to get to know each other better. In conferences a barrier is nearly always created between whoever is talking and those who are listening. So, in order to overcome this obstacle we must try to come to some agreement because we are here to do something together, not simply to talk on the one hand and listen on the other. And this common interest needs to be clearer than ever given the questions about to be discussed this evening. Often the complexity of the analyses and the difficulty of the problems that are being tackled separate the person who is talking from those who are listening, pushing many comrades into a passive dimension. The same thing happens when we read a difficult book which only interests us up to a point, a book with a title such as Anarchism and Post-industrial Society, for example. I must confess that if I were to see such a book in a shop window, I’m not sure I’d buy it. 
 
@@ -264,7 +264,7 @@ In another direction, in the years that followed, over four hundred attacks took
 
 I would like to wind up here because I think I have been talking long enough. Our insurrectionalist choice is anarchist. As well as being let us say a characterological choice, a choice of the heart, it is also a choice of reason, a result of analytical reflection. What we know about global capitalist restructuring today tells us that there is no other way open to anarchists but that of immediate, destructive intervention. That is why we are insurrectionalists and are against all ideology and chatter. That is why we are against any ideology of anarchism, and all chatter about anarchism. The time for pub talk is over. The enemy is right outside this great hall, visible for all to see. It is simply a question of deciding to attack it. I am certain that insurrectionalist anarchist comrades will know how to choose the timing and the means for doing so, because with the destruction of this enemy, comrades, it is possible to realise anarchy.
 
-** Chapter 3. Anarchists and History
+## Chapter 3. Anarchists and History
 
 <em>What is your identity and that of anarchism?</em>
 
