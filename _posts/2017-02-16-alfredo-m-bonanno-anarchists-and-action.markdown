@@ -5,13 +5,13 @@ author: Alfredo M. Bonanno
 pubdate: 1989
 source: 'Elephant Archives'
 source-url: https://archive.elephanteditions.net/library/alfredo-m-bonanno-anarchists-and-action
-excerpt: 'Anarchists are not slaves to number but continue to act against power even when the class clash is at a low level in the mass. Anarchist action should not therefore aim at organising and defending'
+excerpt: 'Anarchists are not slaves to numbers but continue to act against power even when the class clash is at a low level in the mass. Anarchist action should not therefore aim at organising and defending'
 date: '2017-02-16 01:55:32 -0500'
 categories: insurrection
 ---
 
 
-Anarchists are not slaves to number but continue to act against power even when the class clash is at a low level in the mass. Anarchist action should not therefore aim at organising and defending the whole of the class of the exploited in one vast organisation to see the struggle from beginning to end, but should identify single aspects of the struggle and carry them through to their conclusion of attack.
+Anarchists are not slaves to numbers but continue to act against power even when the class clash is at a low level in the mass. Anarchist action should not therefore aim at organising and defending the whole of the class of the exploited in one vast organisation to see the struggle from beginning to end, but should identify single aspects of the struggle and carry them through to their conclusion of attack.
 
 If anarchists have one constant characteristic it is that of not letting themselves be discouraged by the adversities of the class struggle or to be enticed by the promises of power.
 
