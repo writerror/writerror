@@ -5,6 +5,7 @@ author: Alfredo M. Bonanno
 pubdate: 1989
 source: 'Elephant Archives'
 source-url: https://archive.elephanteditions.net/library/alfredo-m-bonanno-anarchists-and-action
+thumbnail: '/assets/img/anarchists-and-action.png'
 excerpt: 'Anarchists are not slaves to numbers but continue to act against power even when the class clash is at a low level in the mass. Anarchist action should not therefore aim at organising and defending'
 date: '2017-02-16 01:55:32 -0500'
 categories: insurrection
