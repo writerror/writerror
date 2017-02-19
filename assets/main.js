@@ -19,10 +19,10 @@ $(function() {
         { title: 'It\'s Going Down', url: 'https://itsgoingdown.org/feed/' },
         { title: 'Contra Info', url: 'https://en-contrainfo.espiv.net/feed/' },
         { title: 'Traces of Fire', url: 'https://tracesoffire.espivblogs.net/category/english/feed/' },
-        { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
+        //{ title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
-        { title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
+        //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
         { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://submedia.tv/stimulator/feed/' },
         { title: 'libcom', url: 'https://libcom.org/library-latest/feed' },
@@ -55,7 +55,7 @@ $(function() {
 	$.each(flist, function(i, feed) {
 		$.ajax(
 		  {
-			url: proxy_url+"/v1/feed?url="+feed.url+"&count=5&key=WE1312ACAB161"
+			url: proxy_url+"/v1/feed?url="+feed.url+"&count=10&key=WE1312ACAB161"
 		  }
 		).fail(function() {
 			console.log('Unable to load '+ feed.title);
