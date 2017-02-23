@@ -91,13 +91,12 @@ We feel that <em>committing to a new Conspiracy</em> most closely approaches the
 
 The fact that we engage in <em>struggle against the state</em> doesn’t mean we blind ourselves to the diffuse complex of power that administers contemporary interpersonal relationships. Antiauthoritarian discourse frequently alters and generalizes a concept like the state, relieving the rest of the people who constitute society of their responsibility. In doing so, it creates a sterilized viewpoint that treats entire social sectors as revolutionary subjects, whether called proletariat or oppressed, without revealing the individual responsibility each one of us assumes in the enslavement of our lives.
 
-<quote>
-
+<blockquote>
 The state is not a fortress. You won’t find any door that leads you to some kind of machine or engine that can be turned off by throwing a switch. The state is not a monster you can kill with a stake through the heart. It’s something quite different. We could compare it to a system: a network comprising thousands of machines and switches. This network doesn’t impose itself on society from above. It spreads throughout society from within. It even extends to the sphere of private life, reaching into and touching our emotions at a cellular level. It molds conscience and is molded by it. It connects and unites society, which in turn nourishes and sanctifies it in a continuous exchange of values and standards. In this game, there are no spectators. Each one of us plays an active role.
 
 — Costas Pappas, <em>No Going Back</em>
+</blockquote>
 
-</quote>
 
 The enemy can be found in every mouth that speaks the language of domination. It is not exclusive to one or another race or social class. <em>It doesn’t just consist of rulers and the whole potbellied suit-and-tie dictatorship. It is also the proletarian who aspires to be a boss, the oppressed whose mouth spits nationalist poison, the immigrant who glorifies life in western civilization but behaves like a little dictator among his own people, the prisoner who rats out others to the guards, every mentality that welcomes power, and every conscience that tolerates it.</em>
 
@@ -131,11 +130,11 @@ We know our quest connects us to many other people around the world, and via thi
 
 This text has no epilogue, because praxis will always continue to nourish and transform itself. We’re just making a quick stop, concluding with a few words someone once said:
 
-<quote>
+<blockquote>
 
 It’s an astonishing moment when the attack on the world order is set in motion. Even at the very beginning — which was almost imperceptible — we already knew that very soon, no matter what happened, nothing would be the same as before. It’s a charge that starts slowly, quickens its pace, passes the point of no return, and irrevocably detonates what once seemed impregnable — so solid and protected, yet nevertheless destined to fall, demolished by strife and disorder... On this path of ours, many were killed or arrested, and some are still in enemy hands. Others strayed from the battle or were wounded, never to appear again. Still others lacked courage and retreated. <em>But I must say that our group never wavered, even when it had to face the very heart of destruction.</em>
 
-</quote>
+</blockquote>
 
 — <em>Fire Cells Conspiracy:</em> Gerasimos Tsakalos, Olga Economidou, Haris Hatzimichelakis, Christos Tsakalos, Giorgos Nikolopoulos, Michalis Nikolopoulos, Damiano Bolano, Panayiotis Argyrou, Giorgos Polydoras
 
