@@ -121,6 +121,9 @@ $(function() {
         var libcfirst = $fim.next('a'); //.attr('href');
         $fim.attr('src', libcfirst.attr('href'));
       }
+			if ($fim.attr('src') === undefined) {
+				$fim.attr('src', $fim.attr('data-src'));
+			}
 			if ($fim.length && !$fim.hasClass('kill')) {
 				$('.feed-description',this).append($fim.clone().addClass('firstimg'));
 			}
@@ -239,6 +242,9 @@ $(function() {
 			'<h4>'+$(this).parent().siblings('h4').html()+'</h4><article>' + $(this).parent().siblings('section').html() + '</article>'
 		).before('<div class="post-meta-wrap"><div class="post-meta">'+$(this).parent('.post-meta').html()+'</div></div>');
 		$('body').addClass('noscroll');
+		$('#overlay').find('.feed-full-content').find('img').each(function() {
+			$(this).attr('src', $(this).attr('data-src'));
+		});
 		$('#overlay').show().animate({scrollTop: '0'}, 300);
 		return false;
 	});
