@@ -6,8 +6,7 @@ pubdate: 2007
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/peter-gelderloos-insurrection-vs-organization.html
 excerpt: 'Fortunately, most anarchists in the US avoid any ideological orthodoxy and shun sectarian divides. Unfortunately, most of us also seem to avoid serious strategizing.'
-date: '2017-03-05 14:38:32 -0500'
-thumbnail: ""
+date: '2017-03-05 01:18:32 -0500'
 categories: [insurrection, organization]
 ---
 
