@@ -246,6 +246,7 @@ $(function() {
 		$('#overlay').find('.feed-full-content').find('img').each(function() {
 			$(this).attr('src', $(this).attr('data-src'));
 		});
+		$('#overlay').find('.feed-full-content').find('img:first').css('display','block');
 		$('#overlay').show().animate({scrollTop: '0'}, 300);
 		return false;
 	});
