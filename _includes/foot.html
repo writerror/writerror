@@ -1,3 +1,7 @@
 <script src="{{ "/assets/js/isotope.pkgd.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/imagesloaded.pkgd.min.js" | relative_url }}"></script>
-<script src="{{ "/assets/main.js" | relative_url }}"></script>
+{% if page.layout == 'news' %}
+  <script src="{{ "/assets/main.js" | relative_url }}"></script>
+{% else if page.layout == 'home' %}
+  <script src="{{ "/assets/texts.js" | relative_url }}"></script>
+{% endif %}
