@@ -42,6 +42,7 @@ permalink: "/exits/"
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
 <li><a href="https://animalliberationpressoffice.org/">NAALPO</a></li>
 <li><a href="https://nycabc.wordpress.com/">NYC Anarchist Black Cross</a></li>
+<li><a href="http://www.anarchistbookfair.net/">NYC Anarchist Bookfair</a></li>
 <li><a href="https://nycantifa.wordpress.com ">NYC Antifa</a></li>
 <li><a href="https://phillyantifa.org">Philly Antifa</a></li>
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
