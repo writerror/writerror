@@ -40,6 +40,7 @@ permalink: "/exits/"
 <li><a href="http://littleblackcart.com/">Little Black Cart</a></li>
 <li><a href="http://justseeds.org">Justseeds</a></li>
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
+<li><a href="http://modernslavery.calpress.org/">Modern Slavery</a></li>
 <li><a href="https://animalliberationpressoffice.org/">NAALPO</a></li>
 <li><a href="https://nycabc.wordpress.com/">NYC Anarchist Black Cross</a></li>
 <li><a href="http://www.anarchistbookfair.net/">NYC Anarchist Bookfair</a></li>
