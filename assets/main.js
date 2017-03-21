@@ -34,7 +34,7 @@ $(function() {
         { title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
         //{ title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
-        { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
+        //{ title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
         { title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
     ];
 
