@@ -28,7 +28,7 @@ $(function() {
         //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
         { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://submedia.tv/stimulator/feed/' },
-        { title: 'libcom', url: 'https://libcom.org/library-latest/feed' },
+        //{ title: 'libcom', url: 'https://libcom.org/library-latest/feed' },
         { title: 'Anarchist News', url: 'http://anarchistnews.org/rss.xml' },
         { title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
         { title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
