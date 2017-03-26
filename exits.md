@@ -24,6 +24,7 @@ permalink: "/exits/"
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="http://www.disruptj20.org">Disrupt J20.</a></li>
+<li><a href="http://www.eco-action.org/dod/">Do or Die</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
 <li><a href="http://archive.elephanteditions.net/">Elephant Editions Archive</a></li>
@@ -50,6 +51,7 @@ permalink: "/exits/"
 <li><a href="http://pugetsoundanarchists.org/">pugetsoundanarchists.org</a></li>
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
+<li><a href="https://resonanceaudiodistro.org">Resonance Audio Distro</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
@@ -61,4 +63,3 @@ permalink: "/exits/"
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
 </ul>
-
