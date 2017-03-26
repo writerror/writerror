@@ -5,8 +5,7 @@ author: "Do or Die"
 pubdate: 2003
 source: 'Do or Die'
 source-url: http://www.eco-action.org/dod/no10/anarchy.htm
-thumbnail: '/assets/img/affinity-and-solidarity.png'
-excerpt: "In the struggle to break with the establishment we look for and create relationship forms that are contrary to imposition and authority. Forms that help us feel comfortable in order to develop autonomously in our proposals and acts of daily confrontation."
+excerpt: "Insurrectionary anarchism is one such form, although it is important to stress that insurrectionary anarchists don’t form one unified block, but are extremely varied in their perspectives."
 date: '2017-03-26 01:05:32 -0500'
 categories: insurrection
 ---
