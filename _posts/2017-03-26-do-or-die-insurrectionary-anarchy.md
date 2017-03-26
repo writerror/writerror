@@ -10,7 +10,7 @@ date: '2017-03-26 01:05:32 -0500'
 categories: insurrection
 ---
 
-<div class="table-of-contents small">
+<div class="table-of-contents text-small">
   <p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc1">Sabotage and Other ‘Modest Attempts’</a></p>
 <p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc2">Roots of Insurrectionary Anarchy</a></p>
 <p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc3">Social and Individual Struggle</a></p>
