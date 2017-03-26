@@ -1,5 +1,5 @@
 ---
-title: "Insurrectionary Anarchy – Organising for Attack!"
+title: "Insurrectionary Anarchy Organising for Attack!"
 layout: post
 author: "Do or Die"
 pubdate: 2003
