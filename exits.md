@@ -55,6 +55,7 @@ permalink: "/exits/"
 <li><a href="https://resonanceaudiodistro.org">Resonance Audio Distro</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
+<li><a href="http://www.soleone.org/solecast/">Solecast</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
