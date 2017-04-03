@@ -312,4 +312,4 @@ Athens, Greece</p>
 
 <hr>
 
-<p><strong>PDF</strong>: <a class="pdf" rel="nofollow" href="https://325.nostate.net/wp-content/uploads/2016/09/blk-int-i-grp-ccf.pdf" title="Pdf file">“Individuality and the anarchist group”</a> by Conspiracy of Cells of Fire – Urban Guerrilla Cell.</p>
+<p><strong>PDF</strong>: <a href="/assets/pdf/blk-int-i-grp-ccf.pdf" title="PDF file">“Individuality and the anarchist group”</a> by Conspiracy of Cells of Fire – Urban Guerrilla Cell.</p>
