@@ -298,6 +298,7 @@ h1,h2,h3,h4,h5,h6 {
 				text-align:left;
 				.post-link {
 					display:inline;
+          text-transform: uppercase;
 				}
 				.author {
 						display:inline-block;
@@ -352,6 +353,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 .post-title {
 	font-weight:400;
+  font-size: 36px;
+  letter-spacing:0;
+  text-transform: uppercase;
 }
 .post-content, .post-entry {
 	word-wrap:break-word;
