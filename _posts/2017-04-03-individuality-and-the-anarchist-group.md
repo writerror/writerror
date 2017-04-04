@@ -6,7 +6,6 @@ pubdate: 2016
 source: 325
 source-url: https://325.nostate.net/2016/09/12/pdf-individuality-and-the-anarchist-group-by-conspiracy-of-cells-of-fire-urban-guerrilla-cell-greece/
 excerpt: Written from the lived experience of an armed anarchist urban guerrilla who is imprisoned in the isolation dungeon of Korydallos prison in Athens, Greece, this is not a dreamy fantasy but a text which was developed in the furnace of practical theory and it’s consequences.
-  the morality of voluntary obedience
 date: '2017-04-03 01:28:32 -0500'
 thumbnail: '/assets/img/ccf-logo.jpg'
 categories: insurrection
