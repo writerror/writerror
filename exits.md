@@ -18,6 +18,7 @@ permalink: "/exits/"
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
 <li><a href="http://thebasebk.org/">The Base</a></li>
+<li><a href="http://blackseed.anarchyplanet.org/">Black Seed</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
 <li><a href="http://thebrilliant.org">The Brilliant</a></li>
 <li><a href="http://www.changingsunspress.com">Changing Suns Press</a></li>
@@ -60,6 +61,7 @@ permalink: "/exits/"
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
 <li><a href="https://supportmariusmason.org/">Support Marius Mason</a></li>
+<li><a href="http://thetalonconspiracy.com/">The TALON Conspiracy</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
