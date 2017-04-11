@@ -39,19 +39,19 @@ If you could change anything, what would you change? Would you go on vacation fo
 <p>
 To change anything, start everywhere.
 </p>
-<h4 id="toc1">Start with Self-determination</h4>
+<h3 id="toc1">Start with Self-determination</h3>
 
 
 <p>
 The phantom of liberty still haunts a world cast in its image. We have been promised complete self-determination: all the institutions of our society are supposed to deliver it. If you had complete self-determination, what would you be doing right now? Think of the vast potential of your life: the relationships you could have, the things you could experience, all the ways you could give meaning to your existence. When you were born, it seemed there was no limit to what you could become. You represented pure possibility. Usually, we don't stop to imagine any of this. Only in the most beautiful moments, when we fall in love or achieve a breakthrough or visit a faraway land, do we catch a dizzying glimpse of all our lives could be. What limits how you can fulfill your potential? How much leverage do you have over the environment around you, or how you spend your time? The bureaucracies that appraise you according to how you follow instructions, the economy that empowers you according to how much profit you generate, the military recruiters who insist that the best way to “be all that you can be” is to submit to their authority—do these enable you to make the most of your life on your own terms? The open secret is that we do all have complete self-determination: not because it's given to us, but because not even the most totalitarian dictatorship could take it away. Yet as soon as we begin to act for ourselves, we come into conflict with the very institutions that are supposed to secure our freedom.
 </p>
-<h4 id="toc2">Start by Answering to Ourselves</h4>
+<h3 id="toc2">Start by Answering to Ourselves</h3>
 
 
 <p>
 Managers and tax collectors love to talk about personal responsibility. But if we took complete responsibility for all our actions, would we be following their instructions in the first place? More harm has been done throughout history by obedience than by malice. The arsenals of all the world's militaries are the physical manifestation of our willingness to defer to others. If you want to be sure you never contribute to war, genocide, or oppression, the first step is to stop following orders. That goes for your values, too. Countless rulers and rule books demand your unquestioning submission. But even if you want to cede responsibility for your decisions to some god or dogma, how do you decide which one it will be? Like it or not, you are the one who has to choose between them. Usually, people simply make this choice according to what is most familiar or convenient. We are inescapably responsible for our beliefs and decisions. Answering to ourselves rather than to commanders or commandments, we might still come into conflict with each other, but at least we would do so on our own terms, not needlessly heaping up tragedy in service of others' agendas.
 </p>
-<h4 id="toc3">start by seeking power, not authority</h4>
+<h3 id="toc3">start by seeking power, not authority</h3>
 
 
 <p>
@@ -89,7 +89,7 @@ Manhood, whiteness, property—at the tops of all these pyramids, we don't even 
 <p>
 In this society, power and authority are so interlinked that we can barely distinguish them: we can only obtain power in return for obedience. And yet without freedom, power is worthless.
 </p>
-<h4 id="toc4">start with relationships built on trust</h4>
+<h3 id="toc4">start with relationships built on trust</h3>
 
 
 <p>
@@ -103,7 +103,7 @@ Without imposed power imbalances, people have an incentive to work out conflicts
 <p>
 At its best, friendship is a bond between equals who support and challenge each other while respecting each other's autonomy. That's a pretty good standard by which to evaluate <em>all</em> our relationships. Without the constraints that are imposed upon us today—citizenship and illegality, property and debt, corporate and military chains of command—we could reconstruct our relations on the basis of free association and mutual aid.
 </p>
-<h4 id="toc5">start by reconciling the individual and the whole</h4>
+<h3 id="toc5">start by reconciling the individual and the whole</h3>
 
 
 <p>
@@ -125,7 +125,7 @@ Language serves to communicate only because we hold it in common. The same goes 
 <p>
 Freedom is not a possession or a property; it is a relation. It is not a matter of being protected from the outside world, but of intersecting in a way that maximizes the possibilities. That doesn't mean we have to seek consensus for its own sake; both conflict and consensus can expand and ennoble us, so long as no centralized power is able to compel agreement or transform conflict into winner-takes-all competition. But rather than breaking the world into tiny fiefdoms, let's make the most of our interconnection.
 </p>
-<h4 id="toc6">start with the liberation of desire</h4>
+<h3 id="toc6">start with the liberation of desire</h3>
 
 
 <p>
@@ -135,7 +135,7 @@ Growing up in this society, not even our passions are our own; they are cultivat
 <p>
 To be truly free, we need leverage over the processes that produce our desires. Liberation doesn't just mean fulfilling the desires we have today, but expanding our sense of what is possible, so our desires can shift along with the realities they drive us to create. It means turning away from the pleasure we take in enforcing, dominating, and possessing, to seek pleasures that wrench us free of the machinery of obedience and competition. If you've ever broken an addiction, you have a taste of what it means to transform your desires.
 </p>
-<h4 id="toc7">start with revolt</h4>
+<h3 id="toc7">start with revolt</h3>
 
 
 <p>
@@ -153,7 +153,7 @@ The best thing would be to do away with domination entirely—not to manage its 
 <p>
 It is not enough only to educate and discuss, waiting for others' hearts and minds to change. Until ideas are expressed in action, confronting people with concrete choices, the conversation remains abstract. Most people tend to remain aloof from theoretical discussions, but when something is <em>happening</em>, when the stakes are high and they can see meaningful differences between opposing sides, they will take a stand. We don't need unanimity, nor a comprehensive understanding of the whole world, nor a road map to a precise destination—just the courage to set out on a different path.
 </p>
-<h4 id="toc8">the problem is control</h4>
+<h3 id="toc8">the problem is control</h3>
 
 
 <p>
@@ -171,7 +171,7 @@ The greater the imbalances that are imposed on us, the more control it takes to 
 <p>
 When the infinite possibilities of life have been reduced to an array of options coded in ones and zeros, there will be no more friction between the system we inhabit and the lives we can imagine—not because we will have achieved total freedom, but because we will have perfected its opposite. Freedom doesn't mean choosing between options, but formulating the questions.
 </p>
-<h4 id="toc9">the problem is hierarchy</h4>
+<h3 id="toc9">the problem is hierarchy</h3>
 
 
 <p>
@@ -189,7 +189,7 @@ All of these mechanisms developed together, reinforcing each other. The history 
 <p>
 To put it another way: as long as there are police, who do you think they will harass? As long as there are prisons, who do you think will fill them? As long as there is poverty, who do you think will be poor? It is naïve to believe we could achieve equality in a society based on hierarchy. You can shuffle the cards, but it's still the same deck.
 </p>
-<h4 id="toc10">the problem is borders</h4>
+<h3 id="toc10">the problem is borders</h3>
 
 
 <p>
@@ -203,7 +203,7 @@ Borders don't protect us, they divide us—creating needless friction with the e
 <p>
 The liberal ideal is to expand the lines of inclusion until all the world is integrated into one vast democratic project. But inequality is coded into the structure itself. At every level of this society, a thousand tiny borders divide us into powerful and powerless: security checkpoints, credit ratings, database passwords, price brackets. We need forms of belonging that are not predicated on exclusion, that do not centralize power and legitimacy, that do not quarantine empathy to gated communities.
 </p>
-<h4 id="toc11">the problem is representation</h4>
+<h3 id="toc11">the problem is representation</h3>
 
 
 <p>
@@ -217,7 +217,7 @@ In the digital age, when every person must continually serve as his own secretar
 <p>
 We are irreducible. Neither delegates nor abstractions can stand in for us. In reducing human beings to demographics and raw experience to data, we lose sight of everything that is precious and unique in the world. We need presence, immediacy, direct contact with each other, direct control over our lives—things no representative or representation can deliver.
 </p>
-<h4 id="toc12">the problem is leaders</h4>
+<h3 id="toc12">the problem is leaders</h3>
 
 
 <p>
@@ -227,7 +227,7 @@ Leadership is a social disorder in which the majority of participants in a group
 <p>
 When the police arrive at a protest, their first question is always “Who's in charge?”—not because leadership is essential to collective action, but because it presents a vulnerability. The Conquistadores asked the same question when they arrived in the so-called New World; wherever there was an answer, it saved them centuries of trouble subduing the population themselves. So long as there is a leader, he can be deputized, replaced, or taken hostage. At best, depending on leaders is an Achilles heel; at worst, it reproduces the authorities' interests and power structure inside those who oppose them. It's better if everyone has her own agenda and a sense of her own agency.
 </p>
-<h4 id="toc13">the problem is government</h4>
+<h3 id="toc13">the problem is government</h3>
 
 
 <p>
@@ -253,7 +253,7 @@ Wherever there are hierarchies, it favors the ones on top to centralize power. B
 <p>
 There's no way to freedom but through freedom. Rather than a single bottleneck for all agency, we need a wide range of venues in which to exercise power. Rather than a singular currency of legitimacy, we need space for multiple narratives. In place of the coercion inherent in government, we need decision-making structures that promote autonomy, and practices of self-defense that can hold would-be rulers at bay.
 </p>
-<h4 id="toc14">the problem is profit</h4>
+<h3 id="toc14">the problem is profit</h3>
 
 
 <p>
@@ -271,7 +271,7 @@ When all value is concentrated into a single instrument, even the irrecoverable 
 <p>
 A system driven by profit produces poverty at the same pace as it concentrates wealth. The pressure to compete generates innovations faster than any previous system, but alongside them it produces ever-increasing disparities: where equestrians once ruled over pedestrians, stealth bombers now sail over motorists and homeless people. And because everyone has to pursue profit rather than accomplishing things for their own sake, the results of all this labor can be disastrous. Climate change is just the latest in a series of catastrophes that even the most powerful capitalists have been powerless to halt. Indeed, capitalism doesn't reward entrepreneurs for remedying crises, but for cashing in on them.
 </p>
-<h4 id="toc15">the problem is property</h4>
+<h3 id="toc15">the problem is property</h3>
 
 
 <p>
@@ -293,7 +293,7 @@ Without money or property rights, our relationships to things would be determine
 <p>
 A scoundrel's worst fear is a society without property—for without it, he will only get the respect he deserves. Without money, people are valued for what they contribute to others' lives, not for what they can bribe others to do. Without profit, every effort must be its own reward, so there is no incentive for meaningless or destructive activity. The things that really matter in life—passion, camaraderie, generosity—are available in abundance. It takes legions of police and property surveyors to impose the scarcity that traps us in this rat race.
 </p>
-<h4 id="toc16">the last crime</h4>
+<h3 id="toc16">the last crime</h3>
 
 
 <p>
