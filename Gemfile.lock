@@ -221,6 +221,7 @@ DEPENDENCIES
   github-pages (= 134)
   jekyll-admin
   jekyll-feed (~> 0.6)
+  json
   minima (~> 2.0)
 
 RUBY VERSION
