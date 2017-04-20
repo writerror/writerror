@@ -24,6 +24,7 @@ permalink: "/exits/"
 <li><a href="http://www.changingsunspress.com">Changing Suns Press</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
+<li><a href="https://darkmatter.noblogs.org/">Dark Matter Publications.</a></li>
 <li><a href="http://www.disruptj20.org">Disrupt J20.</a></li>
 <li><a href="http://www.eco-action.org/dod/">Do or Die</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
@@ -64,6 +65,7 @@ permalink: "/exits/"
 <li><a href="http://thetalonconspiracy.com/">The TALON Conspiracy</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
+<li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
 </ul>
