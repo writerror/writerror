@@ -67,5 +67,6 @@ permalink: "/exits/"
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
+<li><a href="http://whichsidepodcast.com/">Which Side Podcast</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
 </ul>
