@@ -34,6 +34,7 @@ permalink: "/exits/"
 <li><a href="https://thefinalstrawradio.noblogs.org/">The Final Straw</a></li>
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
 <li><a href="https://freejeremy.net/">Free Jeremy Hammond</a></li>
+<li><a href="http://www.freeradicalradio.net">Free Radical Radio</a></li>
 <li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
 <li><a href="http://infoshop.org/">Infoshop</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
