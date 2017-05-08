@@ -36,6 +36,7 @@ permalink: "/exits/"
 <li><a href="https://freejeremy.net/">Free Jeremy Hammond</a></li>
 <li><a href="http://www.freeradicalradio.net">Free Radical Radio</a></li>
 <li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
+<li><a href="http://incivility.org">Hostis</a></li>
 <li><a href="http://infoshop.org/">Infoshop</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
 <li><a href="https://interarma.info/?lang=en">Inter Arma</a></li>
