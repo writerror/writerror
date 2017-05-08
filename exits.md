@@ -20,8 +20,10 @@ permalink: "/exits/"
 <li><a href="http://thebasebk.org/">The Base</a></li>
 <li><a href="http://blackseed.anarchyplanet.org/">Black Seed</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
+<li><a href="https://borderedbysilence.noblogs.org/">Bordered by Silence</a></li>
 <li><a href="http://thebrilliant.org">The Brilliant</a></li>
 <li><a href="http://www.changingsunspress.com">Changing Suns Press</a></li>
+<li><a href="https://theconjurehouse.com/">The Conjure House</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="https://darkmatter.noblogs.org/">Dark Matter Publications</a></li>
