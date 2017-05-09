@@ -3,7 +3,7 @@ title: 'Reflections From the Country of Nothingness'
 layout: post
 author: Conspiracy of Cells of Fire & Theofilos Mavropoulos
 pubdate: 2012
-source: 325
+source: Contra Info
 source-url: http://gr.contrainfo.espivblogs.net/files/2014/10/skepseis.pdf
 excerpt: When a door closes behind you, another opens ahead. That is how we felt when the door of the prison opened, closing the door on the era when we were free
 date: '2017-05-08 01:28:32 -0500'
