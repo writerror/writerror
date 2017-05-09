@@ -59,6 +59,7 @@ permalink: "/exits/"
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
 <li><a href="http://rabble.org.uk/">Rabble</a></li>
 <li><a href="https://resonanceaudiodistro.org">Resonance Audio Distro</a></li>
+<li><a href="https://roblosricos.wordpress.com/">rob's revolting</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
 <li><a href="http://www.soleone.org/solecast/">Solecast</a></li>
