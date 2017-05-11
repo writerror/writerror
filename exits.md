@@ -16,6 +16,7 @@ permalink: "/exits/"
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
+<li><a href="http://ardentpress.com/">Ardent Press</a></li>
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
 <li><a href="http://thebasebk.org/">The Base</a></li>
 <li><a href="http://blackseed.anarchyplanet.org/">Black Seed</a></li>
