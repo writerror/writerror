@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title | escape }} &#8211; {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@writerror" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} / {% endif %}writerror" />
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 140 | escape }}" />
