@@ -46,6 +46,7 @@ permalink: "/exits/"
 <li><a href="https://itsgoingdown.org/">It's Going Down</a></li>
 <li><a href="https://libcom.org/">libcom</a></li>
 <li><a href="http://littleblackcart.com/">Little Black Cart</a></li>
+<li><a href="https://june11.noblogs.org/">June 11th</a></li>
 <li><a href="http://justseeds.org">Justseeds</a></li>
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
 <li><a href="http://modernslavery.calpress.org/">Modern Slavery</a></li>
