@@ -44,7 +44,6 @@ permalink: "/exits/"
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
 <li><a href="https://interarma.info/?lang=en">Inter Arma</a></li>
 <li><a href="https://itsgoingdown.org/">It's Going Down</a></li>
-<li><a href="https://libcom.org/">libcom</a></li>
 <li><a href="http://littleblackcart.com/">Little Black Cart</a></li>
 <li><a href="https://june11.noblogs.org/">June 11th</a></li>
 <li><a href="http://justseeds.org">Justseeds</a></li>
