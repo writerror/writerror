@@ -26,7 +26,7 @@ $(function() {
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
         //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
-        { title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
+        //{ title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         //{ title: 'subMedia', url: 'https://sub.media/feed/' },
         { title: 'Anarchist News', url: 'http://anarchistnews.org/rss.xml' },
         { title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
@@ -34,7 +34,7 @@ $(function() {
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
         //{ title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
         { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
-        { title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
+        //{ title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
         { title: 'Modern Slavery', url: 'http://modernslavery.calpress.org/?feed=rss2' },
     ];
 
