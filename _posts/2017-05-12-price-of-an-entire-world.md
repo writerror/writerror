@@ -29,4 +29,4 @@ The surplus of repression is defending a whole world of prices. No price should 
 
 <hr>
 
-Translated from <em>Canenero</em> by Wolfi Landstreicher.
+Translated by Wolfi Landstreicher.
