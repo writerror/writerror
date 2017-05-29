@@ -36,6 +36,7 @@ $(function() {
         { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
         //{ title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
         { title: 'Modern Slavery', url: 'http://modernslavery.calpress.org/?feed=rss2' },
+        { title: 'Montreal Counter-Information', url: 'https://mtlcounter-info.org/en/feed/' },
     ];
 
 	$container.before('<div class="text-center"><div id="loader" class="clearfix">Loading feeds&hellip;</div><select id="siteSort" class="hidden"><option value="*" selected="selected">All Sources</option></select></div>');
