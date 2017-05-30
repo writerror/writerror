@@ -1,5 +1,5 @@
 ---
-title: 'Reflections From the Country of Nothingness'
+title: 'Reflections from the Country of Nothingness'
 layout: post
 author: Conspiracy of Cells of Fire & Theofilos Mavropoulos
 pubdate: 2012
