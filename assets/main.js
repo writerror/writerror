@@ -27,7 +27,7 @@ $(function() {
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
         //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
         //{ title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
-        //{ title: 'subMedia', url: 'https://sub.media/feed/' },
+        { title: 'subMedia', url: 'https://sub.media/feed/' },
         { title: 'Anarchist News', url: 'http://anarchistnews.org/rss.xml' },
         { title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
         //{ title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
