@@ -1,7 +1,7 @@
 ---
 title: Why Do We All Live In Prison
 layout: post
-author: Anonymous
+author: Wolfi Landstreicher
 source: Willful Disobedience Volume 4, number 1
 source-url: https://theanarchistlibrary.org/library/various-authors-willful-disobedience-volume-4-number-1
 pubdate: 2003
