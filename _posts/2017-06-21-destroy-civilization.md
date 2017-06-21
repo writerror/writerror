@@ -1,0 +1,26 @@
+---
+title: 'Destroy Civilization?'
+layout: post
+author: Wolfi Landstreicher
+pubdate: 2002
+source: 'Willful Disobedience Vol. 3, No. 3'
+excerpt: I assume that all anarchists would agree that we want to put an end to every institution, structure and system of domination and exploitation. The rejection of these things is, after all, the basic meaning of anarchism.
+date: '2017-06-21 01:28:32 -0500'
+thumbnail: '/assets/img/caught-web-deception.png'
+categories: civilization
+---
+
+
+I assume that all anarchists would agree that we want to put an end to every institution, structure and system of domination and exploitation. The rejection of these things is, after all, the basic meaning of anarchism. Most would also agree that among these institutions, structures and systems are the state, private property, religion, law, the patriarchal family, class rule...
+
+In recent years, some anarchists have begun to talk in what appears to be broader terms of the need to destroy civilization. This has, of course, led to a reaction in defense of civilization. Unfortunately, this debate has been mainly acrimonious, consisting of name-calling, mutual misrepresentation and territorial disputes over the ownership of the label “anarchist”, rather than real argumentation. One of the problems (though probably not the most significant one) behind this incapacity to really debate the question is that very few individual on either side of it have tried to explain precisely what they mean by “civilization”. Instead, it remains a nebulous term that represents all that is bad for one side and all that is good for the other.
+
+In order to develop a more precise definition of civilization, it is worthwhile to examine when and where civilization is said to have arisen and what differences actually exist between societies currently defined as civilized and those not considered. Such an examination shows that the existence of animal husbandry, agriculture, a sedentary way of life, a refinement of arts, crafts and techniques or even the simply forms of metal smelting are not enough to define a society as civilized (though they do comprise the necessary material basis for the rise of civilization). Rather what arose about ten thousand years ago in the “cradle of civilization” and what is shared by all civilized societies but lacking in all those that are defined as “uncivilized” is a network of institutions, structures and systems that impose social relationships of domination and exploitation. In other words, a civilized society is one comprised of the state, property, religion (or in modern societies, ideology), law, the patriarchal family, commodity exchange, class rule — everything we, as anarchists, oppose.
+
+To put it another way, what all civilized societies have in common is the systematic expropriation of the lives of those who live within them. The critique of domestication (with any moral underpinnings removed) provides a useful tool for understanding this. What is domestication, if not the expropriation of the life of a being by another who then exploits that life for her or his own purposes? Civilization is thus the systematic and institutionalized domestication of the vast majority of people in a society by the few who are served by the network of domination.
+
+Thus the revolutionary process of reappropriating our lives is a process of decivilizing ourselves, of throwing off our domestication. This does not mean becoming passive slaves to our instincts (if such even exist) or dissolving ourselves in the alleged oneness of Nature. It means becoming uncontrollable individuals capable of making and carrying out the decisions that affect our lives in free association with others.
+
+It should be obvious from this that I reject any models for an ideal world (and distrust any vision that is too perfect — I suspect that there, the individual has disappeared). Since the essence of a revolutionary struggle fitting with anarchist ideals is the reappropriation of life by individuals who have been exploited, dispossessed and dominated, it would be in the process of this struggle that people would decide how they want to create their lives, what in this world they feel they can appropriate to increase their freedom, open possibilities and add to their enjoyment, and what would only be a burden stealing from the joy of life and undermining possibilities for expanding freedom. I don’t see how such a process could possibly create any single, universal social model. Rather, innumerable experiments varying drastically from place to place and changing over time would reflect the singular needs, desires, dreams and aspirations of each and every individual.
+
+So, indeed, let’s destroy civilization, this network of domination, but not in the name of any model, of an ascetic morality of sacrifice or of a mystical disintegration into a supposedly unalienated oneness with Nature, but rather because the reappropriation of our lives, the collective re-creation of ourselves as uncontrollable and unique individuals is the destruction of civilization — of this ten thousand year old network of domination that has spread itself over the globe — and the initiation of a marvelous and frightening journey into the unknown that is freedom.

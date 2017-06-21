@@ -2,7 +2,7 @@
 title: Why Do We All Live In Prison
 layout: post
 author: Wolfi Landstreicher
-source: Willful Disobedience Volume 4, number 1
+source: Willful Disobedience Vol. 4, No. 1
 source-url: https://theanarchistlibrary.org/library/various-authors-willful-disobedience-volume-4-number-1
 pubdate: 2003
 excerpt: 'There is a place in this society where one is perpetually under surveillance, where every movement is monitored and controlled, where everyone is under suspicion except the police and their bosses, where all are assumed to be criminals.'
