@@ -6,7 +6,7 @@ pubdate: 2002
 source: 'Willful Disobedience Vol. 3, No. 3'
 excerpt: I assume that all anarchists would agree that we want to put an end to every institution, structure and system of domination and exploitation. The rejection of these things is, after all, the basic meaning of anarchism.
 date: '2017-06-21 01:28:32 -0500'
-thumbnail: '/assets/img/caught-web-deception.png'
+thumbnail: '/assets/img/destroy-civilization.png'
 categories: civilization
 ---
 
