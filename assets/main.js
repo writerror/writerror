@@ -22,7 +22,7 @@ $(function() {
         { title: 'It\'s Going Down', url: 'https://itsgoingdown.org/feed/' },
         { title: 'Contra Info', url: 'https://en-contrainfo.espiv.net/feed/' },
         { title: 'Traces of Fire', url: 'https://tracesoffire.espivblogs.net/category/english/feed/' },
-        //{ title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
+        { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
         //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
@@ -36,7 +36,6 @@ $(function() {
         { title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
         //{ title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
         { title: 'Modern Slavery', url: 'http://modernslavery.calpress.org/?feed=rss2' },
-        { title: 'Montreal Counter-Information', url: 'https://mtlcounter-info.org/en/feed/' },
     ];
 
 	$container.before('<div class="text-center"><div id="loader" class="clearfix">Loading feeds&hellip;</div><select id="siteSort" class="hidden"><option value="*" selected="selected">All Sources</option></select></div>');
