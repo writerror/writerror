@@ -1,5 +1,5 @@
 ---
-title: 'The rebellion continues… until total liberation!'
+title: 'The Rebellion Continues… Until Total Liberation!'
 layout: post
 author: Individualist Cell of Birds of Fire
 pubdate: 2011
