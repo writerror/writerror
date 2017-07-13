@@ -16,6 +16,7 @@ permalink: "/exits/"
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://sites.google.com/site/anarchyinitaly/">Anarchy in Italy</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
+<li><a href="https://antione1.wordpress.com/">Anti-One</a></li>
 <li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="http://ardentpress.com/">Ardent Press</a></li>
 <li><a href="https://attaque.noblogs.org/">Attaque</a></li>
