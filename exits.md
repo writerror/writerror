@@ -75,6 +75,7 @@ permalink: "/exits/"
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
+<li><a href="https://sites.google.com/site/vagabondtheorist/">Vagabond Theorist</a></li>
 <li><a href="http://voidnetwork.gr">Void Network</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://whichsidepodcast.com/">Which Side Podcast</a></li>
