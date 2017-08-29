@@ -29,7 +29,7 @@ $(function() {
         //{ title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
         { title: 'subMedia', url: 'https://sub.media/feed/' },
         { title: 'Anarchist News', url: 'http://anarchistnews.org/rss.xml' },
-        { title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
+        //{ title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
         //{ title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
         //{ title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
