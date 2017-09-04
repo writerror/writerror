@@ -172,6 +172,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
+    json (2.0.3)
     kramdown (1.13.2)
     liquid (4.0.0)
     listen (3.0.6)
@@ -238,6 +239,7 @@ DEPENDENCIES
   github-pages (= 157)
   jekyll-admin
   jekyll-feed (~> 0.6)
+  json
   minima (~> 2.0)
 
 RUBY VERSION
