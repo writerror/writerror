@@ -13,6 +13,7 @@ permalink: "/exits/"
 <li><a href="http://www.activedistributionshop.org/shop/">Active Distribution</a></li>
 <li><a href="https://www.akpress.org/">AK Press</a></li>
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
+<li><a href="https://anarchistnews.org">anarchistnews.org</a></li>
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://sites.google.com/site/anarchyinitaly/">Anarchy in Italy</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
@@ -31,7 +32,6 @@ permalink: "/exits/"
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="https://darkmatter.noblogs.org/">Dark Matter Publications</a></li>
-<li><a href="http://www.disruptj20.org">Disrupt J20</a></li>
 <li><a href="http://www.eco-action.org/dod/">Do or Die</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
@@ -61,7 +61,6 @@ permalink: "/exits/"
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
 <li><a href="http://pugetsoundanarchists.org/">pugetsoundanarchists.org</a></li>
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
-<li><a href="http://rabble.org.uk/">Rabble</a></li>
 <li><a href="https://resonanceaudiodistro.org">Resonance Audio Distro</a></li>
 <li><a href="https://roblosricos.wordpress.com/">rob's revolting</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
