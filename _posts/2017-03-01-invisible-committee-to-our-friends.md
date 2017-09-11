@@ -9,6 +9,7 @@ excerpt: 'The insurrections have come, finally. At such a pace and in so many co
 thumbnail: "/assets/img/to-our-friends.png"
 date: '2017-03-01 01:51:32 -0500'
 categories: insurrection
+exclude: true
 ---
 
 <div class="table-of-contents text-small">
