@@ -115,7 +115,7 @@ The basic agreement within such an organization is the desire not to be in a mom
 
 This does not make us arrogant to devalue everything from the balcony of an ideological purity. On the contrary, it makes us more prepared to throw ourselves in those battles that we will choose, even in intermediate social struggles, which we think are of interest (i.e. student occupations) without being disoriented by the circumstances.
 
-The compass of organized expression points steadily towards the the intensification of the attack and the diffusion of our theory.<strong> The words “anarcho-nihilism”, “black anarchy”, “anarchist terrorism” are truly dangerous, when tested in the heat of battle.</strong>
+The compass of organized expression points steadily towards the the intensification of the attack and the diffusion of our theory. <strong>The words “anarcho-nihilism”, “black anarchy”, “anarchist terrorism” are truly dangerous, when tested in the heat of battle.</strong>
 
 The constant challenging of the enemy through autonomous guerrilla strikes (using the fan of the diversity of means, but with the constant desire of upgrading to armed guerrilla) and organized aggressive intervention to intermediate social struggles are part of the anarchist war. We say again, that the effectiveness of the strategy will not be measured by the figures of participation.
 
