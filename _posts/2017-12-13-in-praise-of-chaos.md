@@ -27,7 +27,7 @@ Or it could be by means of a new organization: individuals united by categories 
 
 And also with prisons. Malatesta wrote in his essay “Anarchy” that prison-hospitals would exist in which delinquents, considered as insane, would be “confined and cured”.
 
-I remember that in a polemic I had with him in Umanita Nova in 1922, he wrote: “martucci, in the name of the sacred rights of the individual, does not want that there remains the possibility of harming a ferocious assassin or a ravisher of children.”
+I remember that in a polemic I had with him in Umanita Nova in 1922, he wrote: “Martucci, in the name of the sacred rights of the individual, does not want that there remains the possibility of harming a ferocious assassin or a ravisher of children.”
 
 I replied that the assassin and the ravisher could be left free in a remote district or on an uninhabited island, but not made to suffer imprisonment which would be un-anarchist. In my book The Banner of the Anti-Christ, I wrote:
 
@@ -39,7 +39,7 @@ Nor are normal individuals basically good, as libertarian communists like to bel
 
 Libertarian communism is no more than a system of federalism and like all social systems would oppress the individual with moral and judicial restraints. Only the superficiality of a Proudhon could give such a system the name of “anarchy” which, on the contrary, means the negation of all government by ideas or by men.
 
-Anarchists are opposed to authority both from below and from above. They do not demand power for the masses, but seek to destroy all power and to decompose tgese nasses into individuals who are masters of their own lives. Therefore anarchists are the most decisive enemies of all types of communism and those who profess to be communists or socialist cannot possibly be anarchists.
+Anarchists are opposed to authority both from below and from above. They do not demand power for the masses, but seek to destroy all power and to decompose these masses into individuals who are masters of their own lives. Therefore anarchists are the most decisive enemies of all types of communism and those who profess to be communists or socialist cannot possibly be anarchists.
 
 Anarchy is the aggregation of innumerable and varied forms of life lived in solitude or in free association . It is the totality of experiences of individual anarchists trying to find new ways of non-gregarious living. It is the contemporary and polychromatic presence of every diverse mode of realization used by free individuals capable of defending their own. It is the spontaneous development of natural beings.
 
@@ -49,9 +49,9 @@ In substance anarchy would mean the victory of polymorphism, which is opposed to
 
 Some maintain that in the absence of government or law we would have to complete triumph of bellum omnium contra omnos: the war of each against all. They are mistaken.
 
-In a free world there would always be struggle, which is indestructible becasue it is natural. But it would be a struggle between the approximately equal forces of men strengthened by naturalism.
+In a free world there would always be struggle, which is indestructible because it is natural. But it would be a struggle between the approximately equal forces of men strengthened by naturalism.
 
-During a long polemic he had with me between 1948 and 1950, Mario Mariani tried to demonstrate that in a condition of anarcy war among man would increase: “If today a man has no fear of attacking his fellow and the policeman who stands behind him, he will certainly have no fear if I eliminate the policeman. Algebraically speaking, if A has no fear of B despite C, he will have even less fear if B is alone.”
+During a long polemic he had with me between 1948 and 1950, Mario Mariani tried to demonstrate that in a condition of anarchy war among man would increase: “If today a man has no fear of attacking his fellow and the policeman who stands behind him, he will certainly have no fear if I eliminate the policeman. Algebraically speaking, if A has no fear of B despite C, he will have even less fear if B is alone.”
 
 My reply was: Today A has no fear of B despite C because he knows that both lack decision and force. B relinquishes them because he relies on C to defend him. And C protects him not because he has any lively feeling or strong interest, but only because it is his trade. Therefore he does not inspire much fear. Hundreds of police in Paris failed to capture Jules Bonnot, the illegalist, alive and had to launch an attack on his house in order to kill him. It is true that behind this protection there is the apparatus of social repression with formidable means at its disposal, but today’s delinquent underrates the collective’s organization and always hopes to escape it or avoid detection.
 
