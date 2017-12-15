@@ -11,7 +11,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts reversed %}
     {% if post.exclude == true %}
-      //exclude
+      <!--exclude-->
     {% else %}
       <li class="post-entry" data-sort='{{ post.date | date: "%Y%-m%d%H%M%S" }}'>
 		<div class="post-home-thumb float-left hidden" style="background-image:url('{% if post.thumbnail %}{{ post.thumbnail }}{% endif %}');"><a class="post-link" href="{{ post.url | relative_url }}"></a></div>
