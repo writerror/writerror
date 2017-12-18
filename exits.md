@@ -14,6 +14,7 @@ permalink: "/exits/"
 <li><a href="https://www.akpress.org/">AK Press</a></li>
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://anarchistnews.org">anarchistnews.org</a></li>
+<li><a href="https://anathema.noblogs.org/">Anathema</a></li>
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://sites.google.com/site/anarchyinitaly/">Anarchy in Italy</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
