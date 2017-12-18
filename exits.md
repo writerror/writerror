@@ -11,7 +11,6 @@ permalink: "/exits/"
 <li><a href="http://325.nostate.net/">325</a></li>
 <li><a href="http://actforfree.nostate.net/">Act For Freedom Now!</a></li>
 <li><a href="http://www.activedistributionshop.org/shop/">Active Distribution</a></li>
-<li><a href="https://www.akpress.org/">AK Press</a></li>
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://anarchistnews.org">anarchistnews.org</a></li>
 <li><a href="https://anathema.noblogs.org/">Anathema</a></li>
