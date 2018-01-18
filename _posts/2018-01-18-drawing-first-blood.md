@@ -2,7 +2,7 @@
 title: 'Drawing First Blood'
 layout: post
 author: 'Meme, Myself and I'
-book: 'Enemies of Society: An Anthology of Individualist'
+book: 'Enemies of Society: An Anthology of Individualist & Egoist Thought'
 pubdate: 2011
 source: 'Ardent Press'
 source-url: http://ardentpress.com/enemies-of-society/
@@ -18,7 +18,7 @@ from: <strong><em>Enemies of Society</em>: An Anthology of Individualist & Egois
 I have no ancestors! For me the creation of the world dates
 from the day of my birth; for me the end of the world will
 be accomplished on the day when I shall restore to the elementary mass the apparatus and the afflatus which constitute my individuality.
-I am the first man, I shall be the last. 
+I am the first man, I shall be the last.
 My history is the complete result of humanity; I know no
 other, I care to know no other. When I suffer, what good
 do I get from another's enjoyment? When I enjoy, in what
