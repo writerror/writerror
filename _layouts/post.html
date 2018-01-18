@@ -4,6 +4,13 @@ layout: default
 <article class="post post-single" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <div class="bib-meta">
+      <p>
+      {% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite>{{ page.title | escape }}.{% if page.book %} {{ page.book | escape }}.{% endif %}</cite> {% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %}
+      {% if page.source %}Source: {% if page.source-url %}<a href="{{ page.source-url }}">{% endif %}{{ page.source }}{% if page.source-url %}</a>{% endif %}.{% endif %}
+      </p>
+    </div>
+
     <p class="post-meta invisible">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
 	<div class="text-center">
 		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -21,12 +28,6 @@ layout: default
 	{% endif %}
 
     {{ content }}
-
-	  <p>&mdash;</p>
-	  <p>
-		{% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite>{{ page.title | escape }}</cite>.{% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %}
-		{% if page.source %}Retrieved from <em>{% if page.source-url %}<a href="{{ page.source-url }}">{% endif %}{{ page.source }}{% if page.source-url %}</a>{% endif %}</em>.{% endif %} 
-	  </p>
 
   </div>
 

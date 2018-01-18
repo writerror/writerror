@@ -351,6 +351,19 @@ h1,h2,h3,h4,h5,h6 {
 		color: lighten($grey-color, 1%);
 	}
 }
+.bib-meta {
+  padding: .75em 0;
+  border: 1px solid #333;
+  border-width: 1px 0;
+  color:#ccc;
+  font-size:.75em;
+  a {
+    color:#eee;
+  }
+  p {
+    margin-bottom:0;
+  }
+}
 .post-title {
 	font-weight:400;
   font-size: 36px;
@@ -660,6 +673,7 @@ h1,h2,h3,h4,h5,h6 {
 .text-small {
 	font-size:.7em;
 }
+.text-normal { font-style: normal; }
 .inline-block {
 	display:inline-block;
 }
@@ -670,6 +684,7 @@ h1,h2,h3,h4,h5,h6 {
 	clear:both;
 }
 .noscroll {overflow:hidden;}
+.noborder {border:0;}
 .underline {
 	text-decoration: underline;
 }
