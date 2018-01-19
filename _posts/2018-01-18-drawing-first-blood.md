@@ -181,7 +181,7 @@ efficient picture of social perfection (essentially just another form of
 the Leftist workers paradise).
 
 If history and the record of every collectivist experiment large and
-small prove anything it is the staggering— in fact insurmountable —
+small prove anything it is the staggering — in fact insurmountable — 
 difficulties and complexities of such a proposed mass organization.
 What happens to those individuals who don’t wish to be planned,
 who don’t like the Jobs assigned to them by their fellow workers, and
@@ -282,9 +282,9 @@ It’s one thing to see the State exactly for what it is, to at least avoid
 the disastrous error of mistaking it for a benefactor or mistaking its
 witless and oppressive orders for divine commands, to demystify and
 de-sanctify the State in one’s own life and creatively out manuever its
-attempts at control— but it’s another matter entirely to attempt to
-confront the very real power of the State with vain, meaningless chest-
-thumping or to underestimate the support the State has among the
+attempts at control — but it’s another matter entirely to attempt to
+confront the very real power of the State with vain, meaningless chest-thumping 
+or to underestimate the support the State has among the
 presumably discontented masses. Ideological anarchists don’t like to
 hear this, but the State continues to exist, not solely by violent conquest
 or deception, but because there is a demand for its services from the
@@ -418,7 +418,7 @@ it; and his self-enjoyment, which leads to uniqueness, to which the I
 as I develops. To Utopians, one of the most threatening qualities of
 Stirner’s negation is that he has no interest in supplying a substitute
 structure for that which he seeks to terminate. (It’s difficult for the
-idealistmindto grasp the concept of negation for negation’s sake, or to
+idealist mind to grasp the concept of negation for negation’s sake, or to
 appreciate Stirner's radical negation as at once a splendid affirmation —
 of free life!) More alarmingly, Stirner divulges the selfish and hollow
 foundation of all humanitarian movements — the predatory, greedy,
@@ -558,8 +558,8 @@ make society.
 Since Emma Goldman wrote these words, it's been amply
 demonstrated that both the feeble namby-pambyism of the “save the
 world” anarchist and the collectivist revolutionary models of social
-change have failed to deliver the goods. This shows an observant, non-
-ideological person that this orientation does not work. In the search for
+change have failed to deliver the goods. This shows an observant, non-ideological 
+person that this orientation does not work. In the search for
 the ultimate sacrifice, selflessness for the Common Good has denied the
 basic truth of human self-interest, and is both hopelessly naive about
 human nature and hermetically sealed against all realistic feedback
