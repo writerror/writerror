@@ -113,22 +113,27 @@ h1,h2,h3,h4,h5,h6 {
 	}
 	.site-nav {
 		border-radius:0;
-			.page-link {
-				@media screen and (min-width:601px) {
-					color:$grey-color-light;
-					text-shadow:1px 1px 0 rgba(0,0,0,.4);
-				}
-				letter-spacing:1px;
-				text-transform: lowercase;
-				font-variant:small-caps;
-				font-family:Oswald-Light, sans-serif;
-				&.active {
-					//text-decoration:underline;
-					border-top:1px dashed #aaa;
-					pointer-events: none;
-					cursor: default;
-				}
+		.page-link {
+			@media screen and (min-width:601px) {
+				color:$grey-color-light;
+				text-shadow:1px 1px 0 rgba(0,0,0,.4);
 			}
+			letter-spacing:1px;
+			text-transform: lowercase;
+			font-variant:small-caps;
+			font-family:Oswald-Light, sans-serif;
+			&.active {
+				//text-decoration:underline;
+				border-top:1px dashed #aaa;
+				pointer-events: none;
+				cursor: default;
+			}
+		}
+		@include media-query($on-palm) {
+			.trigger {
+				display:none;
+			}
+		}
 	}
 }
 .site-footer {
@@ -244,7 +249,7 @@ h1,h2,h3,h4,h5,h6 {
 					}
 				}
 				.post-link {
-					font-size:.83em;
+					font-size:.78em;
 					font-weight:400;
 				}
 				.feed-description {
@@ -299,7 +304,8 @@ h1,h2,h3,h4,h5,h6 {
 				text-align:left;
 				.post-link {
 					display:inline;
-          text-transform: uppercase;
+					font-size:.78em;
+					text-transform: uppercase;
 				}
 				.author {
 						//display:inline-block;
