@@ -12,7 +12,6 @@ thumbnail: '/assets/img/drawing-first-blood.png'
 categories: individualism
 ---
 
-from: <strong><em>Enemies of Society</em>: An Anthology of Individualist & Egoist Thought</strong>
 
 <blockquote class="noborder">
 I have no ancestors! For me the creation of the world dates
@@ -568,7 +567,7 @@ agreement and peaceful fraternity among people denies the irrefutable
 fact of differentiation, and is founded on the seductive but malignant
 politico-ethical principles of socialism (itself an offspring of Christianity).
 As long as anarchists remain preoccupied with saving The Masses (even
-In spite of themselves), then anarchists will curtail their own evolution
+in spite of themselves), then anarchists will curtail their own evolution
 and self-empowerment and be herded into an intellectual fog. (This
 morbid, pathological over-identification with large collectives probably
 helps explain Kropotkin’s later appalling support for World War I.)
@@ -578,7 +577,7 @@ if the majority elect to jump into the lake (of fire), then I am doomed
 unless I can emancipate myself from the crazed lemming herd before it's
 too late to save my own astoundingly precious life. Using swimming as an
 analogy: the overburdened individual sinks, like the group that, tied to one
-another, drags each other down, dooming alt! The self-owning individual
+another, drags each other down, dooming all! The self-owning individual
 is of the open spaces — intrepid, recalcitrant, nimble, spontaneous, and
 agile — and able to raise his or her self above the weight and sheer gravity
 of the Masses and their self-defeating belief systems, precisely because s/he
@@ -602,7 +601,7 @@ being is, and start at the most neglected and maligned truth: l am the
 only master.
 
 Individualist anarchism in the United States was most notably
-expounded in the pages of Benjamin R. Tucker’s journal Liberty,
+expounded in the pages of Benjamin R. Tucker’s journal <em>Liberty</em>,
 which was published from 1881 to 1908. Tucker and his associates —
 all capable writers and thinkers — attempted to forge individualist
 anarchism into a coherent system through an ill-conceived fusion of
@@ -616,7 +615,7 @@ by the principles of what Tucker called "equal liberty.” Still, Tucker did
 two very important things to help the development of individualist
 thought: 1) As already stated, he published the first English translation
 of Stirner’s incendiary masterpiece <em>The Ego and His Own</em> and 2) he
-allowed the pages of his widely-read journal Liberty to serve as an
+allowed the pages of his widely-read journal <em>Liberty</em> to serve as an
 uncensored forum for the discussion of egoist perspectives on power,
 politics, and self-determination. Although we have no desire to dwell
 excessively on Tucker’s overly idealistic theories in this anthology, it
@@ -632,7 +631,7 @@ Spain, France, and England. This collection is by no means comprehensive,
 owing primarily to the fact that so many core texts have yet to be
 translated into English. (For example, Enzo Martucci’s <em>The Banner of
 the Antichrist</em>; Miguel Gimenez Igualada's extensive treatise on Stirner
-from 1956; the writings of BicSfilo Pandasta — Columbian Stirnerite,
+from 1956; the writings of Biofilo Pandasta — Columbian Stirnerite,
 adventurerand vagabond; the Russian anarchist Lev Chernyi's 1907 book
 <em>Associational Anarchism</em>, in which he advocated the "free association of
 independent individuals.”)
@@ -645,12 +644,12 @@ and free love subjects for the French individualist anarchist magazine
 <em>L'Anarchie</em>, and who went on trial in the 1920s for alleged participation
 in the illegalist activities of the Bonnot Gang; Domenico Pastorello,
 the Italian polyglot and popularizer of Esperanto, who advocated an
-ascetic lifestyle of self-sufficiency as a solution to economic slaveiy;
+ascetic lifestyle of self-sufficiency as a solution to economic slavery;
 The Brazilian individualist anarchist Maria Lacerda de Moura who wrote
 for the Spanish individualist anarchist magazine <em>Al Margen</em> alongside
 Miguel Gimenez Igualada; Octave Mirbeau, "the Ravachol of modem
 literature”, author of <em>The Torture Garden</em> and the timeless abstentionist
-pamphlet Voters Strike!; Federico Urales, an important Spanish
+pamphlet <em>Voters Strike!</em>; Federico Urales, an important Spanish
 individualist anarchist who edited the journal <em>La Revista Blanca</em> and was
 highly critical of the anarcho-syndicalism in his time (he viewed it as
 plagued by excessive bureaucracy that tended towards reformism),
@@ -662,8 +661,8 @@ homosexuality. The list just goes on and on.
 The individualist anarchist press has also had a fertile life (with
 points of abandonment followed by periods of resurgence) and a
 rich, innovative publishing history — one abounding with variety,
-local flavor and an emancipatory non conformism towards ready-
-made anarchist dogma and programs. Some of the more noteworthy
+local flavor and an emancipatory non conformism towards ready-made 
+anarchist dogma and programs. Some of the more noteworthy
 examples are Enrico Arrigoni's journal <em>Erisia</em>, which unleashed nine
 issues between 1928-1928 that anarchist historian Paul Avrich describes
 as "remarkable". Then there are the French individualist papers, which
@@ -699,7 +698,7 @@ dynamic English-language Individualist and Egoist papers, publications
 containing a wide range of heretical views operating outside and against
 orthodox anarchism. The publications that we consumed most ardently
 were <em>The Storm! A Journal For Free Spirits</em>, <em>Minus One: An Individualist
-Review Egoist, and Ego</em>, supplemented by a smattering of translated
+Review Egoist</em>, and <em>Ego</em>, supplemented by a smattering of translated
 texts that fortuitously materialized when needed most. All of these
 journals were driven by an utter disrespect for the alleged unity or
 sanctity of the anarchist movement. They all articulate an independence
@@ -709,14 +708,14 @@ all introduce new approaches and philosophic concerns and help to
 move anti-authoritarian consciousness in a dangerous direction again.
 S.E. Parker, whose writing features prominently in this compilation,
 was a British individualist anarchist who, from 1963 to 1993, edited
-three of the journals just cited — <em>Minus One, Egoist, and Ego</em> — all urgent,
+three of the journals just cited — <em>Minus One, Egoist</em>, and <em>Ego</em> — all urgent,
 vehemently individualist periodicals that assail the complacency of
 anarchist group think and disrupt the placid reliance on morality as a
 means of justifying anarchy. Parker eventually drove a wedge between
 egoism proper and anarchism — at least in his own life — repudiating
 anarchism as a self-renunciating, humanist church. In one of his last
 published articles, Parker found himself agreeing with Dora Marsden
-(«»n important early twentieth-century British egoist, whose writings
+(an important early twentieth-century British egoist, whose writings
 Parker helped rescue from obscurity), who argued that moralistic
 anarchism is merely continuing the work of religion under a new guise.
 Parker describes his "loss of faith" in the article "Archists, Anarchists
@@ -754,3 +753,4 @@ speech and fruitless will-o-the-wisp schemes for social betterment, the
 assertion of individual sovereignty by word and deed is the only method
 and only message of these iconoclastic minds who choose to label their
 personal rejection of all authority as <em>individualist</em>.
+
