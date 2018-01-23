@@ -1,4 +1,4 @@
-// by @writerror writerror.com
+// writerror.com
 'use strict';
 
 var PROD = true;
@@ -14,7 +14,6 @@ $(function() {
 		proxyUrl = 'http://localhost:9292';
 	}
 
-
     var flist = [
         { title: '325', url: 'https://325.nostate.net/feed/' },
         { title: 'Act For Freedom Now!', url: 'http://actforfree.nostate.net/?feed=rss2' },
@@ -25,17 +24,8 @@ $(function() {
         { title: 'Fire On The Horizon', url: 'https://fireonthehorizon.noblogs.org/feed/' },
         { title: 'CrimethInc', url: 'https://crimethinc.com/feed' },
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
-        //{ title: 'The Ex-Worker', url: 'https://crimethinc.com/podcast/feed' },
-        //{ title: 'Infoshop', url: 'http://news.infoshop.org/rss.xml' },
-        { title: 'subMedia', url: 'https://sub.media/feed/' },
         { title: 'Anarchist News', url: 'https://anarchistnews.org/rss.xml' },
-        //{ title: 'Earth First! Newswire', url: 'http://earthfirstjournal.org/newswire/feed/' },
-        //{ title: 'NAALPO', url: 'https://animalliberationpressoffice.org/NAALPO/feed/' },
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
-        //{ title: 'Rabble', url: 'http://rabble.org.uk/feed/' },
-        //{ title: 'Mpalothia', url: 'http://mpalothia.net/category/english/feed/' },
-        //{ title: 'Elephant Archives', url: 'https://archive.elephanteditions.net/feed' },
-        //{ title: 'Modern Slavery', url: 'http://modernslavery.calpress.org/?feed=rss2' },
     ];
 
 	$container.before('<div class="text-center"><div id="loader" class="clearfix">Loading feeds&hellip;</div><select id="siteSort" class="hidden"><option value="*" selected="selected">All Sources</option></select></div>');
@@ -60,7 +50,6 @@ $(function() {
 		getSortData : {
 				date: '[data-sort]' }
 	});
-
 
 	var count = flist.length;
 	var $bird = '<a title="Share on Twitter" href="#twitter" class="share float-right"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="1em" height="1em"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"></path></svg></span></a> ';
@@ -109,18 +98,6 @@ $(function() {
 	    if ($fim.attr('width') === '1' && $fim.attr('height') === '1') {
 				$fim.addClass('kill');
         $fim.remove();
-      }
-      else if ($fim.attr('src') === 'https://libcom.org/sites/libcom.org/modules/contrib/filefield/icons/image-x-generic.png') {
-      	$fim.attr('src', $fim.next('a').attr('href'));
-      }
-      else if ($fim.attr('src') === 'https://submedia.tv/stimulator/wp-content/plugins/flattr/img/flattr-badge-white@2x.png' ||
-				$fim.attr('src') === 'https://submedia.tv/stimulator/wp-content/plugins/flattr/img/flattr-badge-white.png') {
-					$fim.addClass('kill');
-          $fim.remove();
-      }
-      else if ($(this).find('.feed-title') === 'libcom') {
-        var libcfirst = $fim.next('a'); //.attr('href');
-        $fim.attr('src', libcfirst.attr('href'));
       }
 			if ($fim.attr('src') === undefined) {
 				$fim.attr('src', $fim.attr('data-src'));
