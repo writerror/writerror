@@ -16,7 +16,7 @@ $(function() {
 
     var flist = [
         { title: '325', url: 'https://325.nostate.net/feed/' },
-        { title: 'Act For Freedom Now!', url: 'http://actforfree.nostate.net/?feed=rss2' },
+        { title: 'Act For Freedom Now!', url: 'https://actforfree.nostate.net/?feed=rss2' },
         { title: 'Insurrection News', url: 'https://insurrectionnewsworldwide.com/feed/' },
         { title: 'It\'s Going Down', url: 'https://itsgoingdown.org/feed/' },
         { title: 'Contra Info', url: 'https://en-contrainfo.espiv.net/feed/' },

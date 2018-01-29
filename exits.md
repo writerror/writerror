@@ -59,6 +59,7 @@ permalink: "/exits/"
 <li><a href="https://phillyantifa.org">Philly Antifa</a></li>
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
+<li><a href="https://rebelsdarklaughter.wordpress.com">The Rebel's Dark Laughter</a></li>
 <li><a href="https://resonanceaudiodistro.org">Resonance Audio Distro</a></li>
 <li><a href="https://roblosricos.wordpress.com/">rob's revolting</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
