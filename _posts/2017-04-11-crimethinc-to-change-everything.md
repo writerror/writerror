@@ -9,6 +9,7 @@ excerpt: If you could change anything, what would you change? Would you go on va
 date: '2017-04-11 01:28:32 -0500'
 thumbnail: '/assets/img/to-change-everything.png'
 categories: introduction
+exclude: true
 ---
 
 
