@@ -31,6 +31,7 @@ permalink: "/exits/"
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="https://darkmatter.noblogs.org/">Dark Matter Publications</a></li>
+<li><a href="http://dark-mountain.net/">Dark Mountain Project</a></li>
 <li><a href="http://www.eco-action.org/dod/">Do or Die</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
