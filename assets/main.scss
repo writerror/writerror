@@ -690,6 +690,14 @@ h1,h2,h3,h4,h5,h6 {
 .clearfix {
 	clear:both;
 }
+.fn, .post .post-content .fn {
+  vertical-align: super;
+  font-size:.7em;
+  text-decoration: none;
+  &:hover {
+      text-decoration: underline;
+  }
+}
 .noscroll {overflow:hidden;}
 .noborder {border:0;}
 .underline {
