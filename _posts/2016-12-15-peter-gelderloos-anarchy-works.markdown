@@ -9,6 +9,7 @@ excerpt: 'Anarchism is the boldest of revolutionary social movements to emerge f
 thumbnail: "/assets/img/anarchy-works.png"
 date: '2016-12-15 13:38:32 -0500'
 categories: society
+exclude: true
 ---
 
 
@@ -63,7 +64,7 @@ It would be anarchy.”</em>
 </blockquote>
 
 
-<div class="text-center">* * * * *  </div> 
+<div class="text-center">* * * * *  </div>
 
 <blockquote>
 
@@ -896,7 +897,7 @@ p.m. <em>Bolo’Bolo.</em> Zurich: Paranoia City Verlag, 1983.
 
 No philosophy or movement for liberation can ignore the connection between human exploitation of the environment and our exploitation of one another, nor can it ignore the suicidal ramifications of industrial society. A free society must forge a respectful and sustainable relationship with its bioregion, on the understanding that humans depend on the health of the entire planet.
 
-### What’s to stop someone from destroying the environment? 
+### What’s to stop someone from destroying the environment?
 
 Some people oppose capitalism on environmental grounds, but think some sort of state is necessary to prevent ecocide. But the state is itself a tool for the exploitation of nature. Socialist states such as the Soviet Union and People’s Republic of China have been among the most ecocidal regimes imaginable. That these two societies never escaped the dynamics of capitalism is itself a feature of the state structure — it necessitates hierarchical, exploitative economic relationships of control and command, and once you start playing that game nothing beats capitalism. However the state does present the possibility of forcibly changing people’s behavior on a massive scale, and this power is attractive to some environmentalists. There have been a few states in world history that enforced protective measures domestically, when saving the environment coincided with their strategic interests. One of the foremost is Japan, which halted and reversed deforestation in the archipelago around the Meiji period. But in this case and other cases, domestic environmental protections enforced by the state were coupled with greater exploitation abroad. Japanese society consumed increasing amounts of imported wood, fueling deforestation in other countries and providing an incentive for the development of an imperial military to secure these vital resources. This led not only to environmental devastation but also to warfare and genocide. Similarly in Western Europe, statist environmental protections came at the expense of colonial exploitation, which also resulted in genocide.
 
@@ -936,7 +937,7 @@ People throughout Minneapolis who had initially supported the destructive projec
 
 Outside Edinburgh, Scotland, eco-anarchists have had even more success saving a forest. The Bilston Glen anti-roads camp has existed for over seven years as of this writing, drawing the participation of hundreds of people and stopping the construction of a bypass desired by large biotech facilities in the area. To allow people to live there permanently with a lower impact on the forest, and to make it harder for police to evict them, the activists have built houses up in the trees which people occupy year round. The village is certainly low technology, but it is also low impact, and some of the houses are clearly works of love, comfortable enough to be considered permanent homes. The dozen or so inhabitants have also been tending the forest, removing invasive species and encouraging the growth of native species. The Bilston Glen tree village is just one in a long line of anti-road occupations and ecological direct actions in the UK that create a collective force that makes the state think twice about building new roads or evicting protestors. The village also crosses the line between simply opposing government policy and creating new social relations with the environment: in the course of defending it, dozens of people have made the forest their home, and hundreds more people have personally seen the importance of relating with nature in a respectful way and defending it from Western civilization.
 
-### What about global environmental problems, like climate change? 
+### What about global environmental problems, like climate change?
 
 Anarchists do not yet have experience dealing with global problems because our successes so far have only been local and temporary. Stateless, anarchic societies once covered the world, but this was long before the existence of global environmental problems like those created by capitalism. Today, members of many of these indigenous societies are at the forefront of global resistance to the ecological destruction caused by governments and corporations.
 
@@ -1092,7 +1093,7 @@ So in an anarchist society, violent crime would be less common. But when it did 
 
 The state’s punitive methods for dealing with crime make things worse, not better. The restorative methods for responding to social harm that are used in many stateless societies open new possibilities for escaping the cycles of abuse, punishment, and harm that are all too familiar to many of us.
 
-### What about rape, domestic violence, and other forms of harm? 
+### What about rape, domestic violence, and other forms of harm?
 
 Many actions that are considered crimes by our government are completely harmless; some crimes, such as stealing from the wealthy or sabotaging instruments of warfare, can actually decrease harm. Still, a number of transgressions that are now considered crimes do constitute real social harm. Of these, murder is highly sensationalized but rare compared to other more common problems.
 
@@ -1290,7 +1291,7 @@ Democratic states still entertain the option of calling in the military when the
 
 Because of the globally integrated nature of the system, states and other institutions of power are mutually reinforcing, and thus stronger up to a certain point. But beyond that point, they are all weaker, and vulnerable to collapse on a global scale like never before in history. Political crisis in China could destroy the US economy, and send other dominoes falling as well. We have not yet reached the point at which we can overthrow the global power structure, but it is significant that in specific contests the state is often unable to crush us, and bubbles of autonomy exist alongside the system that purports to be universal and without alternatives. Governments are overthrown every year. The system has still not been abolished because the victors of such struggles have always been co-opted and reincorporated into global capitalism. But if explicitly anti-authoritarian movements can take the initiative in popular resistance, this is a hopeful sign for the future.
 
-### How do we know revolutionaries won’t become new authorities? 
+### How do we know revolutionaries won’t become new authorities?
 
 It is not inevitable for revolutionaries to become the new dictators, especially if their primary goal is the abolition of all coercive authority. Revolutions throughout the 20<sup>th</sup> century created new totalitarian systems, but all of these were led or hijacked by political parties, none of which denounced authoritarianism; on the contrary, a great many of them promised to create a “dictatorship of the proletariat” or a nationalist government.
 
@@ -1436,7 +1437,7 @@ But despite the sudden power gained by the CNT — they were the dominant organi
 
 Rather than painting a rosy picture of history, we should recognize that these examples show that navigating the tension between effectiveness and authoritarianism is not easy, but it is possible.
 
-### How will communities decide to organize themselves at first? 
+### How will communities decide to organize themselves at first?
 
 All people are capable of self-organization, whether or not they are experienced in political work. Of course, taking control of our lives won’t be easy at first, but it is imminently possible. In most cases, people take the obvious approach, spontaneously holding large, open meetings with their neighbors, co-workers, or comrades on the barricades to figure out what needs to be done. In some cases, society is organized through pre-existing revolutionary organizations.
 
@@ -1466,7 +1467,7 @@ The city of Gwangju (or Kwangju), in South Korea, liberated itself for six days 
 
 In the Hungarian Revolution of 1956, state power collapsed after masses of student protestors armed themselves; much of the country fell into the hands of the people, who had to reorganize the economy and quickly form militias to repel Soviet invasion. Initially, each city organized itself spontaneously, but the forms of organization that arose were very similar, perhaps because they developed in the same cultural and political context. Hungarian anarchists were influential in the new Revolutionary Councils, which federated to coordinate defense, and they took part in the workers’ councils that took over the factories and mines. In Budapest old politicians formed a new government and tried to harness these autonomous councils into a multiparty democracy, but the influence of the government did not extend beyond the capital city in the days before the second Soviet invasion succeeded in crushing the uprising. Hungary did not have a large anarchist movement at the time, but the popularity of the various councils shows how contagious anarchistic ideas are once people decide to organize themselves. And their ability to keep the country running and defeat the first invasion of the Red Army shows the effectiveness of these organizational forms. There was no need for a complex institutional blueprint to be in place before people left their authoritarian government behind. All they needed was the determination to come together in open meetings to decide their futures, and the trust in themselves that they could make it work, even if at first it was unclear how.
 
-### How will reparations for past oppressions be worked out? 
+### How will reparations for past oppressions be worked out?
 
 If government and capitalism disappeared overnight, people would still be divided. Legacies of oppression generally determine where we live; our access to land, water, a clean environment, and necessary infrastructure; and the level of violence and trauma in our communities. People are accorded vastly differing degrees of social privilege according to skin color, gender, citizenship, economic class, and other factors. Once the exploited of the earth rise up to seize the wealth of our society, what exactly will they inherit? Healthy land, clean water, and hospitals, or depleted soil, garbage dumps, and lead pipes? It depends largely on their skin color and nationality.
 
@@ -1652,7 +1653,7 @@ Throughout the Caribbean and other parts of the world, liberated pirate enclaves
 
 The expanding navies of Great Britain and the United States finally crushed piracy in the 19<sup>th</sup> century, but in the 17<sup>th</sup> and 18<sup>th</sup> centuries pirates constituted a powerful stateless society that waged war against imperialism and government, and enabled thousands of people to liberate themselves at a time when the oppressiveness of Western civilization surpassed all the previous barbarities in world history.
 
-### What will we do about societies that remain patriarchal or racist? 
+### What will we do about societies that remain patriarchal or racist?
 
 Anarchism emphasizes autonomy and local action, but it is not an isolationist or provincial tendency. Anarchist movements have always concerned themselves with global issues and distant struggles. While governments also profess concern about problems in other parts of the world, anarchism is distinguished by its refusal to impose solutions. Statist propaganda claims we need world government to liberate the peoples of oppressive societies, even as the UN, NATO, the US, and other institutions continue to foster oppression and engage in warfare to uphold the hierachical world order[118].
 
@@ -2303,4 +2304,3 @@ Howard Zinn, <em>A People’s History of the United States</em>. New York: Perre
 [124] See, for example, Dmitri M. Bondarenko and Andrey V. Korotayev, <em>Civilizational Models of Politogenesis,</em> Moscow: Russian Academy of Sciences, 2000.
 
 [125] The argument that certain societies were able to take over the world because of geographic conditions rather than any inherent superiority is skillfully presented by Jared Diamond in <em>Guns, Germs, and Steel: The Fates of Human Societies.</em> New York: W.W. Norton, 1997.
-
