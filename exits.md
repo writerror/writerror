@@ -43,11 +43,11 @@ permalink: "/exits/"
 <li><a href="http://www.freeradicalradio.net">Free Radical Radio</a></li>
 <li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
 <li><a href="http://incivility.org">Hostis</a></li>
-<li><a href="http://infoshop.org/">Infoshop</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
 <li><a href="https://interarma.info/?lang=en">Inter Arma</a></li>
 <li><a href="https://itsgoingdown.org/">It's Going Down</a></li>
 <li><a href="http://littleblackcart.com/">Little Black Cart</a></li>
+<li><a href="http://thelonghaul.org ">Long Haul Infoshop</a></li>
 <li><a href="https://june11.noblogs.org/">June 11th</a></li>
 <li><a href="http://justseeds.org">Justseeds</a></li>
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
@@ -79,4 +79,5 @@ permalink: "/exits/"
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://whichsidepodcast.com/">Which Side Podcast</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
+<li><a href="http://woodenshoebooks.org/">Wooden Shoe Books</a></li>
 </ul>
