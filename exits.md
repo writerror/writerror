@@ -57,6 +57,7 @@ permalink: "/exits/"
 <li><a href="https://nycabc.wordpress.com/">NYC Anarchist Black Cross</a></li>
 <li><a href="http://www.anarchistbookfair.net/">NYC Anarchist Bookfair</a></li>
 <li><a href="https://nycantifa.wordpress.com ">NYC Antifa</a></li>
+<li><a href="https://phlanticap.noblogs.org/">Philly Anti-Capitalist</a></li>
 <li><a href="https://phillyantifa.org">Philly Antifa</a></li>
 <li><a href="http://pistolsdrawn.org/">Pistols Drawn</a></li>
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
