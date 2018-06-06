@@ -1,3 +1,3 @@
 ---
-layout: news
+layout: home
 ---
