@@ -246,7 +246,9 @@ h1,h2,h3,h4,h5,h6 {
 				}
 				overflow:hidden;
 				border:1px solid #666;
-				font-size:.8rem;
+        @media (min-width: 992px) {
+  				font-size:.8rem;
+        }
 				h2 {
 					text-align:center;
 					.author {
@@ -307,6 +309,7 @@ h1,h2,h3,h4,h5,h6 {
 			overflow:hidden;
 			border:1px solid #999;
 			width:auto;
+      height:auto;
 			h2 {
 				text-align:left;
 				.post-link {
@@ -329,55 +332,36 @@ h1,h2,h3,h4,h5,h6 {
 					height:100%;
 				}
 			}
-      &:first-child {
-        display: flex;
-        height:80vh; //calc(100vh - 86px)
-        width:auto;
-        font-size:1.5rem;
-        .post-home-thumb {
-          width:50%;
-          min-width:50%;
-          height:auto;
-          background-size: contain;
-          background-repeat: no-repeat;
-        }
-        .post-home-content {
+      @media (min-width: 992px) {
+        &:first-child {
           display: flex;
-          -webkit-box-orient: vertical;
-          -moz-box-orient: vertical;
-          box-orient: vertical;
-          -webkit-box-direction: normal;
-          -moz-box-direction: normal;
-          box-direction: normal;
-          -webkit-flex-direction: column;
-          -moz-flex-direction: column;
-          flex-direction: column;
-          -ms-flex-direction: column;
-          -webkit-box-pack: center;
-          -moz-box-pack: center;
-          box-pack: center;
-          -webkit-justify-content: center;
-          -moz-justify-content: center;
-          -ms-justify-content: center;
-          -o-justify-content: center;
-          justify-content: center;
-          -ms-flex-pack: center;
-          -webkit-box-align: start;
-          -moz-box-align: start;
-          box-align: start;
-          -webkit-align-items: flex-start;
-          -moz-align-items: flex-start;
-          -ms-align-items: flex-start;
-          -o-align-items: flex-start;
-          align-items: flex-start;
-          -ms-flex-align: start;
-          width: 50%;
-          min-width: 50%;
-          padding-right: 40.8px;
-          height: calc(100vh - 58px);
+          height:80vh; //calc(100vh - 86px)
+          width:auto;
+          font-size:1.4rem;
+          .post-home-thumb {
+            width:50%;
+            min-width:50%;
+            height:auto;
+            background-size: contain;
+            background-repeat: no-repeat;
+          }
+          .post-home-content {
+            display: flex;
+            box-orient: vertical;
+            box-direction: normal;
+            flex-direction: column;
+            box-pack: center;
+            justify-content: center;
+            box-align: start;
+            align-items: flex-start;
+            //width: 50%;
+            //min-width: 50%;
+            //padding-right: 40.8px;
+            height: calc(100vh - 80px);
+          }
         }
-      }
-		}
+  		}
+    }
 	}
 	.post-content {
 		font-size:1.25em;
@@ -390,6 +374,7 @@ h1,h2,h3,h4,h5,h6 {
 		.feed-content {
 			.post-entry {
 				width:18.75%;
+        height:auto;
 			}
 		}
 	}
