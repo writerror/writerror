@@ -4,6 +4,7 @@ layout: post
 author: Paul Z. Simons
 pubdate: 2017
 excerpt: Following is a brief, incomplete outline of some of the more common aspects of what black anarchists think and do. These tendencies are numbered for convenience, and not to show priority or importance.
+thumbnail: '/assets/img/pure-black.png'
 date: '2017-05-30 01:28:32 -0500'
 categories: 'black anarchism'
 ---
