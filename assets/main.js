@@ -266,4 +266,18 @@ $(function() {
 	var $overlay = $('<div id="overlay" class="hidden"><div id="full-content"></div></div>');
 	$('body').append($overlay);
 
+	var delay = (function(){
+	  var timer = 0;
+	  return function(callback, ms){
+	    clearTimeout (timer);
+	    timer = setTimeout(callback, ms);
+	  };
+	})();
+
+	$(window).resize(function() {
+    delay(function(){
+			$container.isotope({masonry: { columnWidth: $container.width() / gridCols() }, sortBy: 'date', sortAscending: false, filter: '.feed-item'});
+    }, 500);
+	});
+
 });

@@ -372,8 +372,10 @@ h1,h2,h3,h4,h5,h6 {
 @media (min-width: 992px) {
 	.news {
 		.feed-content {
+      display:flex;
+      flex-wrap:wrap;
 			.post-entry {
-				width:18.75%;
+				width:calc(20vw - 20px); //18.5%;
         height:auto;
 			}
 		}
