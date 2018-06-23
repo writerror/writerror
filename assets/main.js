@@ -26,6 +26,8 @@ $(function() {
         { title: 'Enough is Enough!', url: 'https://enoughisenough14.org/feed/' },
         { title: 'Anarchist News', url: 'https://anarchistnews.org/rss.xml' },
         { title: 'The Final Straw Radio', url: 'https://thefinalstrawradio.noblogs.org/feed/' },
+				{ title: 'Attaque', url: 'https://attaque.noblogs.org/post/category/english/feed/' },
+				{ title: 'mpalothia', url: 'https://mpalothia.net/category/english/feed/' },
     ];
 
 	$container.before('<div class="text-center"><div id="loader" class="clearfix">Loading feeds&hellip;</div><select id="siteSort" class="hidden"><option value="*" selected="selected">All Sources</option></select></div>');
