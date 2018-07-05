@@ -336,7 +336,7 @@ h1,h2,h3,h4,h5,h6 {
         &:first-child {
           display: flex;
           height:80vh; //calc(100vh - 86px)
-          width:auto;
+          width:100%;
           font-size:1.4rem;
           .post-home-thumb {
             width:50%;
@@ -386,7 +386,7 @@ h1,h2,h3,h4,h5,h6 {
       flex-wrap:wrap;
       .post-entry {
         width: calc(33vw - 16px);
-        height: 16vh;
+        height: 17vh;
         display: inline-block;
 				.post-home-thumb {
 					  width:85px;

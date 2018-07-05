@@ -6,39 +6,39 @@ pubdate: 1924
 source: 'The Anarchist Library'
 source-url: https://theanarchistlibrary.org/library/renzo-novatore-toward-the-creative-nothing
 thumbnail: '/assets/img/novatore-eclipse.png'
-excerpt: "Our epoch is an epoch of decadence. Bourgeois-christian-plebeian civilization arrived at the dead end of its evolution a long time ago. "
-date: '2018-05-06 13:12:00 -0500'
+excerpt: "We will destroy laughing. / We will set fires laughing. / We will kill laughing. / We will expropriate laughing. / And society will fall. / The fatherland will fall. / The family will fall. / All will fall after the free man is born."
+date: '2018-05-06 01:38:33 -0500'
 categories: egoism, nihilism
 ---
 
 
 <div class="table-of-contents text-small">
-  <p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc1">Translator’s Introduction</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc2">Biographical Note</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc3">Introduction from the 1993 Edition Published by Centrolibri-Edizioni Anarchiche e Libertarie</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc4">Renzo Novatore</a></p>
-<p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc5">Toward the Creative Nothing</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc6">I</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc7">II</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc8">III</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc9">IV</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc10">V</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc11">VI</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc12">VII</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc13">VIII</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc14">IX</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc15">X</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc16">XI</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc17">XII</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc18">XIII</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc19">XIV</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc20">XV</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc21">XVI</a></p>
-<p class="tableofcontentline toclevel3"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc22">XVII</a></p>
-<p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc23">Cry of Rebellion</a></p>
-<p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc24">My Opinions</a></p>
-<p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc25">Excerpt from <em>Vertices</em></a></p>
-<p class="tableofcontentline toclevel2"><span class="tocprefix">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#toc26"><em>Iconoclasts, Forward</em></a></p>
+  <p class="tableofcontentline toclevel3"><a href="#toc1">Translator’s Introduction</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc2">Biographical Note</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc3">Introduction from the 1993 Edition Published by Centrolibri-Edizioni Anarchiche e Libertarie</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc4">Renzo Novatore</a></p>
+<p class="tableofcontentline toclevel2"><a href="#toc5">Toward the Creative Nothing</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc6">I</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc7">II</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc8">III</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc9">IV</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc10">V</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc11">VI</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc12">VII</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc13">VIII</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc14">IX</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc15">X</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc16">XI</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc17">XII</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc18">XIII</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc19">XIV</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc20">XV</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc21">XVI</a></p>
+<p class="tableofcontentline toclevel3"><a href="#toc22">XVII</a></p>
+<p class="tableofcontentline toclevel2"><a href="#toc23">Cry of Rebellion</a></p>
+<p class="tableofcontentline toclevel2"><a href="#toc24">My Opinions</a></p>
+<p class="tableofcontentline toclevel2"><a href="#toc25">Excerpt from <em>Vertices</em></a></p>
+<p class="tableofcontentline toclevel2"><a href="#toc26"><em>Iconoclasts, Forward</em></a></p>
   </div>
 
 
