@@ -10,7 +10,6 @@ permalink: "/exits/"
 <ul class="exits">
 <li><a href="http://325.nostate.net/">325</a></li>
 <li><a href="http://actforfree.nostate.net/">Act For Freedom Now!</a></li>
-<li><a href="http://www.activedistributionshop.org/shop/">Active Distribution</a></li>
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://anarchistnews.org">anarchistnews.org</a></li>
 <li><a href="https://anathema.noblogs.org/">Anathema</a></li>
@@ -68,13 +67,11 @@ permalink: "/exits/"
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
 <li><a href="https://supportmariusmason.org/">Support Marius Mason</a></li>
-<li><a href="http://thetalonconspiracy.com/">The TALON Conspiracy</a></li>
 <li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
 <li><a href="https://underhilldistro.tumblr.com">underHILL Distro</a></li>
 <li><a href="https://sites.google.com/site/vagabondtheorist/">Vagabond Theorist</a></li>
-<li><a href="http://voidnetwork.gr">Void Network</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
 <li><a href="http://whichsidepodcast.com/">Which Side Podcast</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
