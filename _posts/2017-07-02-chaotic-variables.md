@@ -1,5 +1,6 @@
 ---
-title: 'Chaotic Variables – A Theoretical Contribution In Proposal for an Informal Anarchist Platform'
+title: 'Chaotic Variables'
+sub-title: 'A Theoretical Contribution In Proposal for an Informal Anarchist Platform'
 layout: post
 author: Conspiracy of Cells of Fire
 pubdate: 2016

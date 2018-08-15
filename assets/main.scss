@@ -311,7 +311,9 @@ h1,h2,h3,h4,h5,h6 {
 			width:auto;
       height:auto;
 			h2 {
+        margin-bottom:.5rem;
 				text-align:left;
+        line-height:1;
 				.post-link {
 					display:inline;
 					font-size:.78em;
@@ -388,7 +390,7 @@ h1,h2,h3,h4,h5,h6 {
       flex-wrap:wrap;
       .post-entry {
         width: calc(33vw - 16px);
-        height: 17vh;
+        height: 18vh;
         display: inline-block;
 				.post-home-thumb {
 					  width:85px;
@@ -423,6 +425,13 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 36px;
   letter-spacing:0;
   text-transform: uppercase;
+  .subtitle {
+    font-size:32px;
+    line-height:1.2;
+  }
+}
+.subtitle {
+  text-transform:none;
 }
 .post-content, .post-entry {
 	word-wrap:break-word;

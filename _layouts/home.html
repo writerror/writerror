@@ -19,12 +19,12 @@ layout: default
 			<span class="post-meta text-small invisible">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
 
 			<h2>
-			  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+			  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}{% if post.sub-title %}: <span class="subtitle">{{ post.sub-title | markdownify | remove: '<p>' | remove: '</p>' | rstrip }}</span>{% endif %}</a>
 			  <span class="author">by {{ post.author }}</span>
 			</h2>
-			<p class="">
-				{{ post.excerpt }}&hellip;
-			</p>
+      <p>
+  			{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}&hellip;
+      </p>
 		</div>
 		<div class="clearfix"></div>
       </li>

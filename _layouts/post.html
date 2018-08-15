@@ -6,14 +6,14 @@ layout: default
   <header class="post-header">
     <div class="bib-meta">
       <p>
-      {% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite>{{ page.title | escape }}.{% if page.book %} {{ page.book | escape }}.{% endif %}</cite> {% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %}
+      {% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite><span class="text-normal">"{{ page.title | escape }}{% if page.sub-title %}: {{ page.sub-title | markdownify | remove: '<p>' | remove: '</p>' | rstrip }}{% endif %}."</span>{% if page.book %} {{ page.book | escape }}.{% endif %}</cite> {% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %}
       {% if page.source %}Source: {% if page.source-url %}<a href="{{ page.source-url }}">{% endif %}{{ page.source }}{% if page.source-url %}</a>{% endif %}.{% endif %}
       </p>
     </div>
 
     <p class="post-meta invisible">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
 	<div class="text-center">
-		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+		<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}{% if page.sub-title %}<br><span class="subtitle">{{ page.sub-title | markdownify }}</span>{% endif %}</h1>
 		{% if page.author %}
 		<address class="author">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span></author>
 		{% endif %}

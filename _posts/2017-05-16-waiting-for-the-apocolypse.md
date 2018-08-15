@@ -1,5 +1,6 @@
 ---
-title: 'Waiting For The Apocalypse: The Ideology of Collapse and the Avoidance of Revolutionary Responsibility'
+title: 'Waiting For The Apocalypse'
+sub-title: 'The Ideology of Collapse and the Avoidance of Revolutionary Responsibility'
 layout: post
 author: Wolfi Landstreicher
 pubdate: 2002-2003

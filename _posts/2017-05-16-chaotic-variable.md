@@ -1,5 +1,6 @@
 ---
-title: 'Chaotic Variable – A Plan With No Safety Net'
+title: 'Chaotic Variable'
+sub-title: 'A Plan With No Safety Net'
 layout: post
 author: Conspiracy of Cells of Fire
 pubdate: 2015

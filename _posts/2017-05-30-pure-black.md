@@ -1,5 +1,6 @@
 ---
-title: "Pure Black: An Emerging Consensus Among Some Comrades? "
+title: "Pure Black"
+sub-title: 'An Emerging Consensus Among Some Comrades?'
 layout: post
 author: Paul Z. Simons
 pubdate: 2017

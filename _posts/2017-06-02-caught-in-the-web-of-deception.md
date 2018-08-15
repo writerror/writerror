@@ -1,5 +1,6 @@
 ---
-title: 'Caught in the Web of Deception: Anarchists and the Media'
+title: 'Caught in the Web of Deception'
+sub-title: 'Anarchists and the Media'
 layout: post
 author: Wolfi Landstreicher
 pubdate: 2000
