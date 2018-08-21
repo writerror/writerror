@@ -335,6 +335,34 @@ h1,h2,h3,h4,h5,h6 {
 				}
 			}
       @media (min-width: 992px) {
+        &.special {
+          display: flex;
+          height:80vh; 
+          width:100%;
+          font-size:1.4rem;
+          .post-home-thumb {
+            width:100%;
+            min-width:100%;
+            height:auto;
+            background-size: contain;
+            background-repeat: no-repeat;
+			background-position:center center;
+          }
+          .post-home-content {
+            display: flex;
+            box-orient: vertical;
+            box-direction: normal;
+            flex-direction: column;
+            box-pack: center;
+            justify-content: center;
+            box-align: start;
+            align-items: flex-start;
+            //width: 50%;
+            //min-width: 50%;
+            //padding-right: 40.8px;
+            height: calc(80vh - 80px);
+          }
+        }
 		/*
         &:first-child {
           display: flex;
