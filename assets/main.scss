@@ -334,10 +334,13 @@ h1,h2,h3,h4,h5,h6 {
 					height:100%;
 				}
 			}
-      @media (min-width: 992px) {
+      @media (min-width: 768px) {
         &.special {
           display: flex;
-          height:80vh; 
+          height:60vh; 
+          @media (min-width: 992px) {
+		    height:80vh; 
+          }
           width:100%;
           font-size:1.4rem;
           .post-home-thumb {
