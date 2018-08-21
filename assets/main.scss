@@ -335,15 +335,16 @@ h1,h2,h3,h4,h5,h6 {
 				}
 			}
       @media (min-width: 768px) {
-        &.special {
+        &.special:first-child {
           display: flex;
-          height:60vh; 
+          height:60vh;
           @media (min-width: 992px) {
-		    height:80vh; 
+		    height:80vh;
           }
           width:100%;
           font-size:1.4rem;
           .post-home-thumb {
+			      margin:0;
             width:100%;
             min-width:100%;
             height:auto;
@@ -353,6 +354,9 @@ h1,h2,h3,h4,h5,h6 {
           }
           .post-home-content {
             display: flex;
+			@media (min-width: 768px) {
+				display: none;
+			}
             box-orient: vertical;
             box-direction: normal;
             flex-direction: column;
@@ -770,6 +774,10 @@ h1,h2,h3,h4,h5,h6 {
 	font-size:.7em;
 }
 .text-normal { font-style: normal; }
+.text-emphasize {
+  font-style:italic;
+}
+.text-strong { font-weight: 500; }
 .inline-block {
 	display:inline-block;
 }

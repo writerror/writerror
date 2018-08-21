@@ -4,12 +4,14 @@ layout: default
 <article class="post post-single" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {% if page.type != 'special' %}
     <div class="bib-meta">
       <p>
       {% if page.author %}{{ page.author | escape }}.{% endif %} {% if page.title %}<cite><span class="text-normal">"{{ page.title | escape }}{% if page.sub-title %}: {{ page.sub-title | markdownify | remove: '<p>' | remove: '</p>' | rstrip }}{% endif %}."</span>{% if page.book %} {{ page.book | escape }}.{% endif %}</cite> {% endif %} {% if page.pubdate %}{{ page.pubdate }}.{% endif %}
       {% if page.source %}Source: {% if page.source-url %}<a href="{{ page.source-url }}">{% endif %}{{ page.source }}{% if page.source-url %}</a>{% endif %}.{% endif %}
       </p>
     </div>
+    {% endif %}
 
     <p class="post-meta invisible">Added on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y.%-m.%d" }}</time></p>
 	<div class="text-center">
@@ -23,7 +25,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
 	{% if page.thumbnail %}
 	<div class="text-center">
-		<img src='{{ page.thumbnail | relative_url }}' class="post-image post-thumb" alt="">
+		<img src='{{ page.thumbnail | relative_url }}' class="post-image {% if page.type != 'special' %}post-thumb{% endif %}" alt="">
 	</div>
 	{% endif %}
 

@@ -4,24 +4,35 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading"><span class="hidden">Posts</span></h1>
+  <h1 class="page-heading hidden">Texts</h1>
 
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%Y.%m.%d" }}</span>
+    {% if post.exclude == true %}
+    {% elsif post.type == 'special' %}
+      <!--exclude-->
+    {% else %}
+      <li class="post-entry {% if post.type == 'special' %}special{% endif %}" data-sort='{{ post.date | date: "%Y%-m%d%H%M%S" }}'>
+		<div class="post-home-thumb float-left" style="background-image:url('{% if post.thumbnail %}{{ post.thumbnail }}{% endif %}');"><a class="post-link" href="{{ post.url | relative_url }}"></a></div>
+		<div class="post-home-content">
+			<span class="post-meta text-small invisible">Added on {{ post.date | date: "%Y.%m.%d" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-		<p>
-			{{ post.excerpt }}&hellip;
-		</p>
+			<h2>
+			  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}{% if post.sub-title %}: <span class="subtitle">{{ post.sub-title | markdownify | remove: '<p>' | remove: '</p>' | rstrip }}</span>{% endif %}</a>
+			  <span class="author">by {{ post.author }}</span>
+			</h2>
+      <p>
+  			{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}&hellip;
+      </p>
+		</div>
+		<div class="clearfix"></div>
       </li>
+      {% endif %}
     {% endfor %}
   </ul>
+  <div class="clearfix"></div>
 
   <p class="rss-subscribe hidden">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
