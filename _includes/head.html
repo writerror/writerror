@@ -11,7 +11,7 @@
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 140 | escape }}" />
   <meta name="twitter:image" content="{{ page.thumbnail | absolute_url | default: 'https://writerror.com/assets/img/m.jpg' }}" />
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}?{{site.time | date: '%s%N'}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
