@@ -6,6 +6,7 @@ layout: post
 type: special
 date: '2018-08-21 02:03:32 -0500'
 thumbnail: '/assets/img/solidarity-week-2018-writerror.png'
+thumbnail-link: '/assets/pdf/solidarity-week-2018-writerror-11x17.pdf'
 excerpt: Poster for International Week of Solidarity with Anarchist Prisoners
 categories: solidarity
 permalink: international-week-of-solidarity-with-anarchist-prisoners
