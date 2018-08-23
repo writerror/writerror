@@ -13,11 +13,12 @@ permalink: "/exits/"
 <li><a href="https://theanarchistlibrary.org">The Anarchist Library</a></li>
 <li><a href="https://anarchistnews.org">anarchistnews.org</a></li>
 <li><a href="https://anathema.noblogs.org/">Anathema</a></li>
+<li><a href="http://anarchymag.org/">Anarchy: A Journal of Desire Armed</a></li>
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
 <li><a href="https://sites.google.com/site/anarchyinitaly/">Anarchy in Italy</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
+<li><a href="https://anarhija.info">anarhija.info</a></li>
 <li><a href="https://antione1.wordpress.com/">Anti-One</a></li>
-<li><a href="https://antisocialevolution.blackblogs.org">Antisocial Evolution</a></li>
 <li><a href="http://ardentpress.com/">Ardent Press</a></li>
 <li><a href="https://attaque.noblogs.org/">Attaque</a></li>
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
@@ -63,6 +64,7 @@ permalink: "/exits/"
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
 <li><a href="http://www.soleone.org/solecast/">Solecast</a></li>
+<li><a href="https://solidarity.international/">Till all are free</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
