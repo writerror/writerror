@@ -22,11 +22,17 @@ permalink: international-week-of-solidarity-with-anarchist-prisoners
   </p>
 
   <p class="text-emphasize text-strong">
-  Solidarity will always be practiced as an indispensable feature of an anarchist way of life and action.<br>
+  Solidarity will always be practiced as an indispensable feature of an anarchist way of life and action.&hellip;<br>
   The war continues, never give up, never give in.<br>
   Long live FAI-FRI<br>
   Long live CCF<br>
   Long live the black international<br>
   <span class="text-small text-normal">&mdash;Alfredo Cospito</span>
+  </p>
+
+  <hr class="dim-25">
+  <p class="text-small dim-50">
+  <a href="https://solidarity.international/wp-content/uploads/2018/08/prisoners-list-20181.pdf">2018 Prisoners List</a> (PDF)
+  via <em>Till All Are Free</em>
   </p>
 </div>

@@ -777,7 +777,18 @@ h1,h2,h3,h4,h5,h6 {
 .text-emphasize {
   font-style:italic;
 }
-.text-strong { font-weight: 500; }
+.text-strong {
+  font-weight: 500;
+}
+.dim-75 {
+  opacity:.75;
+}
+.dim-50 {
+  opacity:.5;
+}
+.dim-25 {
+  opacity:.25;
+}
 .inline-block {
 	display:inline-block;
 }
