@@ -25,7 +25,6 @@ permalink: "/exits/"
 <li><a href="http://thebasebk.org/">The Base</a></li>
 <li><a href="http://blackseed.anarchyplanet.org/">Black Seed</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
-<li><a href="https://borderedbysilence.noblogs.org/">Bordered by Silence</a></li>
 <li><a href="http://thebrilliant.org">The Brilliant</a></li>
 <li><a href="http://www.changingsunspress.com">Changing Suns Press</a></li>
 <li><a href="http://en.contrainfo.espiv.net/">Contra Info</a></li>
@@ -41,7 +40,6 @@ permalink: "/exits/"
 <li><a href="https://fireonthehorizon.noblogs.org/">Fire on the Horizon</a></li>
 <li><a href="https://freejeremy.net/">Free Jeremy Hammond</a></li>
 <li><a href="http://www.freeradicalradio.net">Free Radical Radio</a></li>
-<li><a href="http://www.greenisthenewred.com/blog">Green is the New Red</a></li>
 <li><a href="http://incivility.org">Hostis</a></li>
 <li><a href="https://insurrectionnewsworldwide.com/">Insurrection News</a></li>
 <li><a href="https://interarma.info/?lang=en">Inter Arma</a></li>
@@ -49,7 +47,6 @@ permalink: "/exits/"
 <li><a href="http://littleblackcart.com/">Little Black Cart</a></li>
 <li><a href="http://thelonghaul.org ">Long Haul Infoshop</a></li>
 <li><a href="https://june11.noblogs.org/">June 11th</a></li>
-<li><a href="http://justseeds.org">Justseeds</a></li>
 <li><a href="http://mpalothia.net/">Mpalothia</a></li>
 <li><a href="http://modernslavery.calpress.org/">Modern Slavery</a></li>
 <li><a href="https://mtlcounter-info.org">Montreal Counter-information</a></li>
@@ -63,19 +60,18 @@ permalink: "/exits/"
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
-<li><a href="http://www.soleone.org/solecast/">Solecast</a></li>
 <li><a href="https://solidarity.international/">Till all are free</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
 <li><a href="https://supportmariusmason.org/">Support Marius Mason</a></li>
-<li><a href="https://threewayfight.blogspot.com/">threewayfight</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
 <li><a href="https://underhilldistro.tumblr.com">underHILL Distro</a></li>
 <li><a href="https://sites.google.com/site/vagabondtheorist/">Vagabond Theorist</a></li>
 <li><a href="https://waronsociety.noblogs.org/">War on Society</a></li>
-<li><a href="http://whichsidepodcast.com/">Which Side Podcast</a></li>
+<li><a href="https://warriorup.noblogs.org/">Warrior Up</a></li>
+<li><a href="https://warzonedistro.noblogs.org/">Warzone Distro</a></li>
 <li><a href="http://winteroak.org.uk/">winter oak</a></li>
 <li><a href="http://woodenshoebooks.org/">Wooden Shoe Books</a></li>
 </ul>
