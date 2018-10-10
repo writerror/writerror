@@ -10,6 +10,7 @@ thumbnail-link: '/assets/pdf/destroy-what-destroys-you.pdf'
 excerpt: Destroy What Destroys You
 categories: solidarity
 permalink: destroy-what-destroys-you
+exclude: true
 ---
 <div class="text-center">
   <p>
