@@ -60,11 +60,12 @@ permalink: "/exits/"
 <li><a href="http://www.anti-politics.org/distro/">Quiver distro</a></li>
 <li><a href="https://seanswain.noblogs.org/">Sean Swain</a></li>
 <li><a href="http://slingshot.tao.ca/">Slingshot</a></li>
-<li><a href="https://solidarity.international/">Till all are free</a></li>
+<li><a href="https://www.stalkingtheearth.net/">stalking the earth</a></li>
 <li><a href="https://www.sproutdistro.com/">Sprout Distro</a></li>
 <li><a href="https://submedia.tv/">subMedia</a></li>
 <li><a href="https://supportericking.org/">Support Eric King</a></li>
 <li><a href="https://supportmariusmason.org/">Support Marius Mason</a></li>
+<li><a href="https://solidarity.international/">Till all are free</a></li>
 <li><a href="http://tracesoffire.espivblogs.net/">Traces of Fire</a></li>
 <li><a href="https://untorellipress.noblogs.org">Untorelli Press</a></li>
 <li><a href="https://underhilldistro.tumblr.com">underHILL Distro</a></li>
