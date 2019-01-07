@@ -15,6 +15,7 @@ permalink: "/exits/"
 <li><a href="https://anathema.noblogs.org/">Anathema</a></li>
 <li><a href="http://anarchymag.org/">Anarchy: A Journal of Desire Armed</a></li>
 <li><a href="http://dwardmac.pitzer.edu/Anarchist_Archives">Anarchy Archives</a></li>
+<li><a href="https://anarchybang.com">Anarchy Bang</a></li>
 <li><a href="https://sites.google.com/site/anarchyinitaly/">Anarchy in Italy</a></li>
 <li><a href="https://anarchylive.noblogs.org">Anarchy Live!</a></li>
 <li><a href="https://anarhija.info">anarhija.info</a></li>
