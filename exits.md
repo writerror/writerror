@@ -24,6 +24,7 @@ permalink: "/exits/"
 <li><a href="https://attaque.noblogs.org/">Attaque</a></li>
 <li><a href="https://avalanche.noblogs.org/">Avalanche</a></li>
 <li><a href="http://thebasebk.org/">The Base</a></li>
+<li><a href="http://sfbay-anarchists.org/">Berkeley Anarchist Study Group</a></li>
 <li><a href="http://blackseed.anarchyplanet.org/">Black Seed</a></li>
 <li><a href="http://www.directaction.info/">BITE BACK</a></li>
 <li><a href="http://thebrilliant.org">The Brilliant</a></li>
@@ -32,6 +33,7 @@ permalink: "/exits/"
 <li><a href="https://crimethinc.com/">CrimethInc.</a></li>
 <li><a href="https://darkmatter.noblogs.org/">Dark Matter Publications</a></li>
 <li><a href="http://dark-mountain.net/">Dark Mountain Project</a></li>
+<li><a href="https://distinctivelydionysian.noblogs.org/">Distinctively Dionysian</a></li>
 <li><a href="http://www.eco-action.org/dod/">Do or Die</a></li>
 <li><a href="http://earthfirstjournal.org/">Earth First</a></li>
 <li><a href="http://www.elephanteditions.net/">Elephant Editions</a></li>
