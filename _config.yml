@@ -1,10 +1,10 @@
 ---
 title: writerror
-email: 
+email:
 description: |
   anarchist ideas & fire
 baseurl: ''
-url: 'http://writerror.com'
+url: 'https://writerror.com'
 twitter_username: writerror
 github_username:
 markdown: kramdown
