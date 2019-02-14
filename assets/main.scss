@@ -391,9 +391,18 @@ h1,h2,h3,h4,h5,h6 {
                 .author {
                   white-space: nowrap;
                   font-size:inherit;
-                  color:$text-color;
+                  color:darken($text-color, 10%);
                 }
               }
+            }
+          }
+          &.fire {
+            margin-bottom: 0;
+            height:89vh;
+            .dual-cols {
+              max-width: 80vw;
+              column-count: 2;
+              text-shadow: 1px 1px 2px black;
             }
           }
         }
