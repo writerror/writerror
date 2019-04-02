@@ -398,7 +398,11 @@ h1,h2,h3,h4,h5,h6 {
           }
           &.fire {
             margin-bottom: 0;
-            height:89vh;
+            //height:89vh;
+            .post-home-thumb {
+              background-image: url("img/writerror-header-03@0,5x.png");
+              background-size: cover;
+            }
             .dual-cols {
               max-width: 80vw;
               column-count: 2;

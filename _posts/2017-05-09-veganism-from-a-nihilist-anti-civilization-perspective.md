@@ -9,6 +9,7 @@ excerpt: What is veganism? Another morality? Another alternative of society? Ano
 date: '2017-05-09 01:28:32 -0500'
 thumbnail: '/assets/img/vegan-nihilist.png'
 categories: veganism
+exclude: true
 ---
 
 
