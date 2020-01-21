@@ -8,6 +8,7 @@ pubdate: 1884
 excerpt: 'Since we believe that the propaganda of action is of use, we must be prepared to accept whatever attendant circumstances it involves.'
 date: '2016-12-06 02:03:34 -0500'
 categories: insurrection
+exclude: true
 ---
 
 Since we believe that the propaganda of action is of use, we must be prepared to accept whatever attendant circumstances it involves.
@@ -40,4 +41,3 @@ For example, if a revolutionary, in the process of carrying out an act of vengea
 Retrieved on April 25, 2009 from <a href="http://dwardmac.pitzer.edu/Anarchist_Archives/bright/most/attack.html" rel="nofollow">dwardmac.pitzer.edu</a>
 
 From Freiheit, September 13, 1884
-

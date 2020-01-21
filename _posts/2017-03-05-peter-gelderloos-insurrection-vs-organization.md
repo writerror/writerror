@@ -8,6 +8,7 @@ source-url: https://theanarchistlibrary.org/library/peter-gelderloos-insurrectio
 excerpt: 'Fortunately, most anarchists in the US avoid any ideological orthodoxy and shun sectarian divides. Unfortunately, most of us also seem to avoid serious strategizing.'
 date: '2017-03-05 01:18:32 -0500'
 categories: [insurrection, organization]
+exclude: true
 ---
 
 
