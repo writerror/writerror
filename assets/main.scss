@@ -145,20 +145,15 @@ h1,h2,h3,h4,h5,h6 {
 	z-index:3;
 	bottom:0;
 	width:100%;
-	background-color:rgba(0,0,0,.8); //rgba(0,0,0,.2);
-	opacity:.9;
 	overflow:hidden;
 	padding:.25em 0;
 	border-top-color:#444;
-	//opacity:.4;
-	&:hover {
-		background-color:rgb(0,0,0);
-		opacity:1;
-	}
+	background-color:rgb(0,0,0);
+	opacity:1;
 	@include media-query($on-palm) {
 		position:static;
-		background-color:rgba(0,0,0,.7);
-		opacity:.9;
+		//background-color:rgba(0,0,0,.7);
+		//opacity:.9;
 	}
 	.footer-col-wrapper {
 		font-size:.7em;
